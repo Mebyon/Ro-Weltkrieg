@@ -1,0 +1,7 @@
+#spriteTypes = {
+
+#spriteType = {
+#		name = "GFX_ideology_conservatism_group"
+#		texturefile = "gfx//interface//ideologies//achievements_top_bar.dds"
+#	}
+#}
