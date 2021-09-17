@@ -1,0 +1,47 @@
+division_template = {
+	name = "le_infantry_div"
+	division_names_group = GER_INF_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+	}
+}
+
+#DIVISIONS
+units = {
+	division = {
+		location = 6332 #(lmao, u gotta find the province id for this one)
+		division_template = "le_infantry_div"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1.0
+	}
+}
+
+#AIR
+air_wings = {
+	5 = { #Konigsberg (insert state id)
+		fighter_equipment_0 =  {
+			owner = "GER"
+			amount = 40
+		}
+}
+
+#PRODUCTION
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_1
+		}
+		requested_factories = 12
+		progress = 0.82
+		efficiency = 100
+}
+
