@@ -1,4 +1,4 @@
-﻿capital = 110
+﻿capital = 142
 
 oob = "NOR_1936"
 if = {
@@ -12,7 +12,8 @@ if = {
 set_research_slots = 3
 
 add_ideas = {
-	limited_conscription
+	house_of_koppenhausen
+	anti_communism
 }
 
 set_stability = 0.9
@@ -52,28 +53,47 @@ if = {
 	}
 }
 
-set_convoys = 69		# biggest merchant marine in the world
+set_convoys = 200
 set_stability = 0.7
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian_democrat
 	last_election = "never"
 	election_frequency = 36
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 6
-	fascism = 2
-	communism = 2
-	neutrality = 90
+	totalist = 1
+	radical_socialist = 3
+	syndicalist = 2
+	social_democrat = 22
+	social_liberal = 6
+	market_liberal = 3
+	social_conservative = 12
+	authoritarian_democrat = 42
+	paternal_autocrat = 7
+	national_populist = 2
+
+#neutrality = 100
 }
 
 create_country_leader = {
 	name = "Lothair Koppenhausen"
-	desc = ""
+	desc = "kill your investors"
 	picture = "lothair.dds"
-	expire = "1942.7.12.1"
-	ideology = centrism
+	expire = "1942.1.1"
+	ideology = authoritarian_democrat_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Walther Koppenhausen"
+	desc = "brap"
+	picture = "waltherkoppenhausen.dds"
+	expire = "1960.1.1"
+	ideology = paternal_autocrat_subtype
 	traits = {
 		#
 	}
@@ -150,7 +170,7 @@ create_corps_commander = {
 	traits = { organizer }
 	skill = 4
 	attack_skill = 2
-	defense_skill = 1
+	defense_skill = 2
 	planning_skill = 4
 	logistics_skill = 4
 }

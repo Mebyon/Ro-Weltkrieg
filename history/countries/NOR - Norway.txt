@@ -126,15 +126,22 @@ set_convoys = 200		# biggest merchant marine in the world
 set_stability = 0.7
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = social_conservative
 	last_election = "1933.10.16"
 	election_frequency = 36
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 96
-	fascism = 2
-	communism = 2
+	totalist = 0
+	radical_socialist = 0
+	syndicalist = 0
+	social_democrat = 2
+	social_liberal = 6
+	market_liberal = 6
+	social_conservative = 15
+	authoritarian_democrat = 47
+	paternal_autocrat = 12
+	national_populist = 12
 }
 
 1939.1.1 = {
@@ -157,7 +164,7 @@ create_country_leader = {
 	desc = "POLITICS_JOHAN_NYGAARDSVOLD_DESC"
 	picture = "Portrait_Norway_Johan_Nygaardsvold.dds"
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = social_conservative_subtype
 	traits = {
 		#
 	}
