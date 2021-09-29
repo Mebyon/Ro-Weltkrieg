@@ -1,0 +1,57 @@
+ideas = {
+
+	country = {
+	
+		house_of_koppenhausen = {
+			picture = house_of_koppenhausen
+			
+			allowed = {
+				tag = POK
+			}
+			
+			available = {
+			}
+			
+			cancel = {
+			}
+	
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+		
+			modifier = {
+				stability_factor = 0.1
+			}
+		}
+		
+		anti_communism = {
+			picture = anti_communism
+			
+			allowed = {
+				tag = POK
+			}
+			
+			available = {
+			}
+			
+			cancel = {
+			}
+	
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+		
+			modifier = {
+				drift_defence_factor = 0.1
+				totalist_drift = -0.1
+				radical_socialist_drift = -0.1
+				syndicalist_drift = -0.1
+			}
+		}
+		
+	}
+}
