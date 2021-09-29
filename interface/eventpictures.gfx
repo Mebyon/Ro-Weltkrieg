@@ -1,0 +1,13 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_news_lothairs_death"
+		texturefile = "gfx/event_pictures/kroneland_lothair_death.dds"
+	}
+	
+		spriteType = {
+		name = "GFX_news_military_junta"
+		texturefile = "gfx/event_pictures/kroneland_military_junta.dds"
+	}
+
+}
