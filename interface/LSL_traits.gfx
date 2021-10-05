@@ -1,0 +1,8 @@
+spriteTypes = {	
+
+	SpriteType = {
+		name = "GFX_trait_autistic"
+		texturefile = "gfx/interface/traits/trait_autistic.dds"
+	}
+
+}

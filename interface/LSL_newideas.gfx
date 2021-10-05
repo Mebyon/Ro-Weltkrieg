@@ -1,0 +1,33 @@
+spriteTypes = {	
+
+	SpriteType = {
+		name = "GFX_idea_house_of_koppenhausen"
+		texturefile = "gfx/interface/ideas/house_of_koppenhausen.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_anti_communism"
+		texturefile = "gfx/interface/ideas/anti_commie.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_political_violence"
+		texturefile = "gfx/interface/ideas/political_violence.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_weak_army"
+		texturefile = "gfx/interface/ideas/weak_army.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_unstable_government"
+		texturefile = "gfx/interface/ideas/unstable_government.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_vorstenbond_league"
+		texturefile = "gfx/interface/ideas/vorstenbond_league.dds"
+	}
+	
+}
