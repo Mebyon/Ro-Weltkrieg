@@ -1,0 +1,455 @@
+﻿capital = 7
+
+oob = "HOL_1936"
+if = {
+	limit = { has_dlc = "Man the Guns" }
+		set_naval_oob = "HOL_1936_naval_mtg"
+	else = {
+		set_naval_oob = "HOL_1936_naval_legacy"
+	}
+}
+
+set_research_slots = 3
+set_stability = 0.75
+set_war_support = 0
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1		
+	tech_recon = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	early_fighter = 1
+	early_bomber = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	marines = 1
+}
+
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = { bicycle_infantry = 1 }
+}
+
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+		early_submarine = 1
+		basic_destroyer = 1
+		early_destroyer = 1
+		early_light_cruiser = 1
+		basic_light_cruiser = 1
+		early_heavy_cruiser = 1
+		transport = 1
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+		basic_naval_mines = 1
+		submarine_mine_laying = 1
+		early_ship_hull_light = 1
+		early_ship_hull_submarine = 1
+		basic_ship_hull_submarine = 1
+		early_ship_hull_cruiser = 1
+		basic_ship_hull_cruiser = 1
+		basic_battery = 1
+		basic_torpedo = 1
+		basic_depth_charges = 1
+		basic_secondary_battery = 1
+		basic_cruiser_armor_scheme = 1
+		coastal_defense_ships = 1
+		mtg_transport = 1
+	}
+}
+
+# DIPLOMACY
+if = {
+	limit = {
+		OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_autonomy = {
+		target = INS
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = INS
+	}
+}
+
+add_ideas = {
+	political_violence
+	weak_army
+	unstable_government
+	vorstenbond_league
+}
+
+set_politics = {
+	ruling_party = authoritarian_democrat
+	last_election = "1933.4.26"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	totalist = 0
+	radical_socialist = 1
+	syndicalist = 0
+	social_democrat = 0
+	social_liberal = 2
+	market_liberal = 8
+	social_conservative = 18
+	authoritarian_democrat = 36
+	paternal_autocrat = 5
+	national_populist = 30
+}
+
+set_convoys = 150
+set_stability = 0.75
+
+create_country_leader = {
+	name = "Emanuel Fremwell"
+	desc = "EMANUEL_DESC"
+	picture = "emanuel_re.dds"
+	expire = "1965.1.1"
+	ideology = authoritarian_democrat_subtype
+	traits = {
+		carantanian_patriarch
+	}
+}
+
+create_country_leader = {
+	name = "Philosopheme"
+	desc = ""
+	picture = "Philosopheme.dds"
+	expire = "1965.1.1"
+	ideology = social_conservative_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Ezerike Heftig"
+	desc = ""
+	picture = "ezerikeheftig.dds"
+	expire = "1965.1.1"
+	ideology = social_democrat_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Cador Kenver"
+	desc = ""
+	picture = "cadorkenverindrip_re.dds"
+	expire = "1965.1.1"
+	ideology = paternal_autocrat_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "James Albannach"
+	desc = ""
+	picture = "jamesalbannach.dds"
+	expire = "1965.1.1"
+	ideology = national_populist_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Albert Eberling"
+	desc = ""
+	picture = "AlbertEberling.dds"
+	expire = "1965.1.1"
+	ideology = radical_socialist_subtype
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Yooko Papamama"
+	desc = ""
+	picture = "drip_generic.dds"
+	expire = "1965.1.1"
+	ideology = market_liberal_subtype
+	traits = {
+		#
+	}
+}
+
+###################################################
+
+create_field_marshal = {
+	name = "Cador Kenver"
+	portrait_path = "gfx/leaders/KOD/cadorkenverindrip_re.dds"
+	traits = { organisational_leader thorough_planner }
+	skill = 3
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_field_marshal = {
+	name = "Philipp Lohenzollern"
+	portrait_path = "gfx/leaders/KOD/philipplohenzollern.dds"
+	traits = { politically_connected }
+	skill = 2
+	attack_skill = 1
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Marszalek Heftig"
+	portrait_path = "gfx/leaders/KOD/marszalekheftig.dds"
+	traits = { brilliant_strategist infantry_leader trickster adaptable }
+	skill = 5
+	attack_skill = 5
+	defense_skill = 3
+	planning_skill = 4
+	logistics_skill = 4
+}
+
+create_corps_commander = {
+	name = "Protection Detail"
+	portrait_path = "gfx/leaders/KOD/protectiondetail.dds"
+	traits = { old_guard trait_reckless autistic }
+	skill = 4
+	attack_skill = 3
+	defense_skill = 3
+	planning_skill = 2
+	logistics_skill = 4
+}
+
+create_corps_commander = {
+	name = "Tiberius Roussel"
+	portrait_path = "gfx/leaders/KOD/tiberiusroussel.dds"
+	traits = {  }
+	skill = 3
+	attack_skill = 2
+	defense_skill = 3
+	planning_skill = 2
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Gerhardt Schreiber"
+	portrait_path = "gfx/leaders/KOD/gerhardtschreiber_re.dds"
+	traits = { trait_cautious }
+	skill = 3
+	attack_skill = 3
+	defense_skill = 3
+	planning_skill = 1
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Markus von Faust"
+	portrait_path = "gfx/leaders/KOD/markusvonfaust.dds"
+	traits = {  }
+	skill = 3
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 1
+}
+create_corps_commander = {
+	name = "Thaddeus Gottwald"
+	portrait_path = "gfx/leaders/KOD/ThaddeusVonGottwald.dds"
+	traits = {  }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 2
+}
+################################################
+
+create_navy_leader = {
+	name = "Generic Navyman"
+	picture = "drip_generic.dds"
+	traits = { fleet_protector naval_lineage bold }
+	skill = 3
+	attack_skill = 3
+	defense_skill = 2
+	maneuvering_skill = 3
+	coordination_skill = 2
+}
+
+
+### VARIANTS ###
+# 1936 Start #
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	### Ship Variants ###
+	create_equipment_variant = {
+		name = "K-XIV Class"
+		type = submarine_1
+		upgrades = {
+			ship_reliability_upgrade = 2
+			sub_engine_upgrade = 2
+			sub_stealth_upgrade = 2
+			sub_torpedo_upgrade = 2
+		}
+	}
+}
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	# Submarines #
+	create_equipment_variant = {			# represents K II-X, O8 subs
+		name = "K-III Class"
+		type = ship_hull_submarine_1
+		name_group = HOL_SS_KCLASS
+		parent_version = 0
+		modules = {
+			fixed_ship_torpedo_slot = ship_torpedo_sub_1
+			fixed_ship_engine_slot = sub_ship_engine_1
+			rear_1_custom_slot = empty
+		}
+		obsolete = yes
+	}
+	create_equipment_variant = {
+		name = "O9 Class"					# represents O9-15, K XI-XIII subs
+		type = ship_hull_submarine_1
+		name_group = HOL_SS_OCLASS
+		parent_version = 0
+		modules = {
+			fixed_ship_torpedo_slot = ship_torpedo_sub_1
+			fixed_ship_engine_slot = sub_ship_engine_2
+			rear_1_custom_slot = empty
+		}
+		obsolete = yes
+	}
+	create_equipment_variant = {
+		name = "K-XIV Class"				# represents K XIV-XVIII, O16 subs
+		type = ship_hull_submarine_2
+		name_group = HOL_SS_KCLASS
+		parent_version = 0
+		modules = {
+			fixed_ship_torpedo_slot = ship_torpedo_sub_2
+			fixed_ship_engine_slot = sub_ship_engine_2
+			rear_1_custom_slot = ship_torpedo_sub_2
+		}
+	}
+	# Destroyers #
+	create_equipment_variant = {
+		name = "Van Ghent Class"			
+		type = ship_hull_light_1
+		name_group = HOL_DD_HISTORICAL
+		parent_version = 0
+		modules = {
+			fixed_ship_battery_slot = ship_light_battery_1
+			fixed_ship_anti_air_slot = ship_anti_air_1
+			fixed_ship_fire_control_system_slot = ship_fire_control_system_0
+			fixed_ship_radar_slot = empty
+			fixed_ship_engine_slot = light_ship_engine_1
+			fixed_ship_torpedo_slot = ship_torpedo_1
+			mid_1_custom_slot = ship_mine_layer_1
+			rear_1_custom_slot = ship_depth_charge_1
+		}
+		obsolete = yes
+	}
+	create_equipment_variant = {
+		name = "Van Galen Class"				
+		type = ship_hull_light_1
+		name_group = HOL_DD_HISTORICAL
+		parent_version = 0
+		modules = {
+			fixed_ship_battery_slot = ship_light_battery_1
+			fixed_ship_anti_air_slot = ship_anti_air_1
+			fixed_ship_fire_control_system_slot = ship_fire_control_system_0
+			fixed_ship_radar_slot = empty
+			fixed_ship_engine_slot = light_ship_engine_1
+			fixed_ship_torpedo_slot = ship_torpedo_1
+			mid_1_custom_slot = empty
+			rear_1_custom_slot = ship_depth_charge_1
+		}
+	}
+	# Light Cruisers #
+	create_equipment_variant = {
+		name = "Java Class"
+		type = ship_hull_cruiser_1
+		name_group = HOL_CL_HISTORICAL
+		parent_version = 0
+		modules = {
+			fixed_ship_battery_slot = ship_light_medium_battery_1
+			fixed_ship_anti_air_slot = ship_anti_air_1
+			fixed_ship_fire_control_system_slot = ship_fire_control_system_0
+			fixed_ship_radar_slot = empty
+			fixed_ship_engine_slot = cruiser_ship_engine_1
+			mid_1_custom_slot = empty
+			mid_2_custom_slot = ship_light_medium_battery_1
+			rear_1_custom_slot = ship_airplane_launcher_1
+		}
+		obsolete = yes
+	}
+	create_equipment_variant = {
+		name = "De Ruyter Class"
+		type = ship_hull_cruiser_1
+		name_group = HOL_CL_HISTORICAL
+		parent_version = 0
+		modules = {
+			fixed_ship_battery_slot = ship_light_medium_battery_1
+			fixed_ship_anti_air_slot = ship_anti_air_1
+			fixed_ship_fire_control_system_slot = ship_fire_control_system_0
+			fixed_ship_radar_slot = empty
+			fixed_ship_engine_slot = cruiser_ship_engine_2
+			mid_1_custom_slot = empty
+			mid_2_custom_slot = empty
+			rear_1_custom_slot = ship_airplane_launcher_1
+		}
+	}
+	# Heavy Cruisers #
+	create_equipment_variant = {
+		name = "Hertog Hendrik Class"			
+		type = ship_hull_cruiser_coastal_defense_ship
+		name_group = HOL_CA_HISTORICAL
+		parent_version = 0
+		modules = {
+			fixed_ship_battery_slot = ship_light_medium_battery_1
+			fixed_ship_anti_air_slot = empty
+			fixed_ship_fire_control_system_slot = ship_fire_control_system_0
+			fixed_ship_radar_slot = empty
+			fixed_ship_engine_slot = cruiser_ship_engine_1
+			fixed_ship_armor_slot = ship_armor_cruiser_2
+			mid_1_custom_slot = ship_airplane_launcher_1
+			mid_2_custom_slot = empty
+			rear_1_custom_slot = ship_torpedo_1
+		}
+		obsolete = yes
+	}
+	create_equipment_variant = {
+		name = "Soerabaja Class"				# represents Soerabaja (De Zeven Provinciën) and Jacob van Heemskerck 
+		type = ship_hull_cruiser_coastal_defense_ship
+		name_group = HOL_CA_HISTORICAL
+		parent_version = 0
+		modules = {
+			fixed_ship_battery_slot = ship_heavy_battery_1
+			fixed_ship_anti_air_slot = ship_anti_air_1
+			fixed_ship_fire_control_system_slot = ship_fire_control_system_0
+			fixed_ship_radar_slot = empty
+			fixed_ship_engine_slot = cruiser_ship_engine_1
+			fixed_ship_armor_slot = ship_armor_cruiser_2
+			fixed_ship_secondaries_slot = ship_secondaries_1
+			mid_1_custom_slot = empty
+			mid_2_custom_slot = empty
+			rear_1_custom_slot = empty
+		}
+	}
+}
+
+}
