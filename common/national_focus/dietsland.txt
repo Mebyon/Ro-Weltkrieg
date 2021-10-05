@@ -1,0 +1,351 @@
+focus_tree = {
+	id = dietsland
+	continuous_focus_position = { x = 10 y = 2000 } 
+	
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = KOD
+		}
+	}
+	
+	#Restricted Trade
+	focus = {
+		id = KOD_restricted_trade
+		icon = GFX_KOD_restricted_trade-445
+		x = 8
+		y = 1
+		cost = 1
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		mutually_exclusive = { focus = KOD_free_trade  }
+	}
+
+	#Free Trade
+	focus = {
+		id = KOD_free_trade
+		icon = GFX_KOD_free_trade-445
+		x = 12
+		y = 1
+		cost = 1
+		mutually_exclusive = { focus = KOD_restricted_trade  }
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+	}
+
+	#Bataafs Volunteers
+	focus = {
+		id = KOD_bataafs_volunteers
+		icon = GFX_KOD_bataafs_volunteers-445
+		x = 10
+		y = 2
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_MANPOWER
+		}
+		prerequisite = { focus = KOD_restricted_trade focus = KOD_free_trade  }
+	}
+
+	#Side with the French
+	focus = {
+		id = KOD_side_with_the_french
+		icon = GFX_KOD_side_with_the_french-445
+		x = 14
+		y = 3
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_free_trade  }
+	}
+
+	#Crave to the Germans
+	focus = {
+		id = KOD_crave_to_the_germans
+		icon = GFX_KOD_crave_to_the_germans-445
+		x = 6
+		y = 3
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_restricted_trade  }
+		mutually_exclusive = { focus = KOD_voorhetvaderland  }
+	}
+
+	#"Voor het Vaderland!"
+	focus = {
+		id = KOD_voorhetvaderland
+		icon = GFX_KOD_voorhetvaderland-445
+		x = 10
+		y = 3
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_bataafs_volunteers  }
+		mutually_exclusive = { focus = KOD_side_with_the_french  focus = KOD_crave_to_the_germans  }
+	}
+
+	#Revive the National Gendarmerie
+	focus = {
+		id = KOD_revive_the_national_gendarmerie
+		icon = GFX_KOD_revive_the_national_gendarmerie-445
+		x = 11
+		y = 4
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_STABILITY
+		}
+		prerequisite = { focus = KOD_voorhetvaderland  }
+		ai_will_do = { factor = 1 }
+	}
+
+	#Compensation of Businesses
+	focus = {
+		id = KOD_compensation_of_businesses
+		icon = GFX_KOD_compensation_of_businesses-445
+		x = 9
+		y = 4
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_voorhetvaderland  }
+	}
+
+	#Purge the Homeguard
+	focus = {
+		id = KOD_purge_the_homeguard
+		icon = GFX_KOD_purge_the_homeguard-445
+		x = 10
+		y = 5
+		cost = 10
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_revive_the_national_gendarmerie  } prerequisite = { focus = KOD_compensation_of_businesses  }
+	}
+
+	#Support from Vorstenbond
+	focus = {
+		id = KOD_support_from_vorstenbond
+		icon = GFX_KOD_support_from_vorstenbond-445
+		x = 10
+		y = 6
+		cost = 4
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_purge_the_homeguard  }
+	}
+
+	#Cador's Coup
+	focus = {
+		id = KOD_cadorscoup
+		icon = GFX_KOD_cadorscoup-445
+		x = 10
+		y = 7
+		cost = 4
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_support_from_vorstenbond  }
+	}
+
+	#Anti-LVF Pact
+	focus = {
+		id = KOD_antilvf_pact
+		icon = GFX_KOD_antilvf_pact-445
+		x = 6
+		y = 4
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_crave_to_the_germans  }
+	}
+
+	#Terrorise Amsterdam
+	focus = {
+		id = KOD_terrorise_amsterdam
+		icon = GFX_KOD_terrorise_amsterdam-445
+		x = 14
+		y = 4
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_side_with_the_french  }
+	}
+
+	#Albannach's New Order
+	focus = {
+		id = KOD_albannachsneworder
+		icon = GFX_KOD_albannachsneworder-445
+		x = 15
+		y = 7
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_talks_with_the_usc  }
+		mutually_exclusive = { focus = KOD_vonckist_revolution  }
+	}
+
+	#Vonckist Revolution
+	focus = {
+		id = KOD_vonckist_revolution
+		icon = GFX_KOD_vonckist_revolution-445
+		x = 13
+		y = 7
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_merge_with_the_seu  }
+		mutually_exclusive = { focus = KOD_albannachsneworder  }
+	}
+
+	#Wallonien Volunteers
+	focus = {
+		id = KOD_wallonien_volunteers
+		icon = GFX_KOD_wallonien_volunteers-445
+		x = 7
+		y = 5
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_antilvf_pact  }
+	}
+
+	#A Better Feature
+	focus = {
+		id = KOD_a_better_feature
+		icon = GFX_KOD_a_better_feature-445
+		x = 6
+		y = 6
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_wallonien_volunteers  } prerequisite = { focus = KOD_thestormcompanyomatika  }
+	}
+
+	#The Storm Company "Omatika"
+	focus = {
+		id = KOD_thestormcompanyomatika
+		icon = GFX_KOD_thestormcompanyomatika-445
+		x = 5
+		y = 5
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_antilvf_pact  }
+	}
+
+	#Rexists Incharge
+	focus = {
+		id = KOD_rexists_incharge
+		icon = GFX_KOD_rexists_incharge-445
+		x = 7
+		y = 7
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_a_better_feature  }
+		mutually_exclusive = { focus = KOD_heftigzionist_influence  }
+		ai_will_do = { factor = 1 }
+	}
+
+	#Heftig-Zionist Influence
+	focus = {
+		id = KOD_heftigzionist_influence
+		icon = GFX_KOD_heftigzionist_influence-445
+		x = 5
+		y = 7
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_a_better_feature  }
+		mutually_exclusive = { focus = KOD_rexists_incharge  }
+		ai_will_do = { factor = 1 }
+	}
+
+	#Bond der Rechtvaardigen
+	focus = {
+		id = KOD_bond_der_rechtvaardigen
+		icon = GFX_KOD_bond_der_rechtvaardigen-445
+		x = 13
+		y = 5
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_terrorise_amsterdam  }
+		mutually_exclusive = { focus = KOD_imperialsfoodndrink  }
+	}
+
+	#Imperial's Food n' Drink
+	focus = {
+		id = KOD_imperialsfoodndrink
+		icon = GFX_KOD_imperialsfoodndrink-445
+		x = 15
+		y = 5
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_terrorise_amsterdam  }
+		mutually_exclusive = { focus = KOD_bond_der_rechtvaardigen  }
+	}
+
+	#Merge with the SEU
+	focus = {
+		id = KOD_merge_with_the_seu
+		icon = GFX_KOD_merge_with_the_seu-445
+		x = 13
+		y = 6
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_imperialsfoodndrink  focus = KOD_bond_der_rechtvaardigen  }
+		mutually_exclusive = { focus = KOD_talks_with_the_usc  }
+	}
+
+	#Talks with the USC
+	focus = {
+		id = KOD_talks_with_the_usc
+		icon = GFX_KOD_talks_with_the_usc-445
+		x = 15
+		y = 6
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = KOD_imperialsfoodndrink  focus = KOD_bond_der_rechtvaardigen  }
+		mutually_exclusive = { focus = KOD_merge_with_the_seu  }
+	}
+	
+#	#New Flemish Patrtarch
+#	focus = {
+#		id = KOD_a_new_flemish_patriarch
+#		icon = GFX_KOD_flemish_prince
+#		x = 10
+#		y = 8
+#		cost = 3
+#		search_filters = {
+#			FOCUS_FILTER_POLITICAL
+#		}
+#		prerequisite = { focus = KOD_cadorscoup  }
+#	}
+
+}

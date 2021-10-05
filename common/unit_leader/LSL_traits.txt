@@ -1,0 +1,41 @@
+
+##################################
+# Common Traits
+##################################
+leader_traits = {
+
+	autistic = { 
+		type = all
+		trait_type = personality_trait
+		gain_xp = {
+			always = no # not gainable
+		}
+
+		modifier = {
+			planning_speed = -0.50
+		}
+		
+		ai_will_do = {
+			factor = 0
+		}
+		
+		logistics_skill_factor = 1
+	}
+	
+}
+
+##################################
+# Field Marshal traits.
+##################################
+	
+##################################
+# Corps Commander traits.
+##################################
+	
+##################################
+# Corps Commander assignabme traits.
+##################################
+
+##################################
+# Naval traits.
+##################################
