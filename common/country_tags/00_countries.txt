@@ -209,3 +209,4 @@ TRA = "countries/Transylvania.txt"
 ####################################################
 
 POK = "countries/Kroneland.txt"
+KOD = "countries/Dietsland.txt"
