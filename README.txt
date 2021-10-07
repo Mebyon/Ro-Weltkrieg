@@ -25,8 +25,11 @@ Aleczaender
 Zhang Fang
 courier19
 Frostdry
-Pawel
+Pawel and the Yugoslav team
 Brushstroke
 kwamp
-Heinrich Sigmaringen
+the Sigmaringens
 InvictusOrDie
+InterstellarWar
+tylerr
+VinnieTorreto
