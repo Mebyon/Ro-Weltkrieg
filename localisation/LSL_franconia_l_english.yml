@@ -1,0 +1,75 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ KOF_totalist:0 "Socialist Franconia"
+ KOF_totalist_ADJ:0 "Franconian"
+ KOF_totalist_DEF:0 "Franconia"
+ 
+ KOF_syndicalist:0 "Franconia"
+ KOF_syndicalist_ADJ:0 "Franconian"
+ KOF_syndicalist_DEF:0 "Franconia"
+ 
+ KOF_radical_socialist:0 "Socialist Franconia"
+ KOF_radical_socialist_ADJ:0 "Franconian"
+ KOF_radical_socialist_DEF:0 "Franconia"
+ 
+ KOF_social_democrat:0 "Franconia"
+ KOF_social_democrat_ADJ:0 "Franconian"
+ KOF_social_democrat_DEF:0 "the Kingdom of Franconia"
+ 
+ KOF_social_liberal:0 "Franconia"
+ KOF_social_liberal_ADJ:0 "Franconian"
+ KOF_social_liberal_DEF:0 "the Kingdom of Franconia"
+ 
+ KOF_market_liberal:0 "Franconia"
+ KOF_market_liberal_ADJ:0 "Franconian"
+ KOF_market_liberal_DEF:0 "the Kingdom of Franconia"
+ 
+ KOF_social_conservative:0 "Franconia"
+ KOF_social_conservative_ADJ:0 "Franconian"
+ KOF_social_conservative_DEF:0 "the Kingdom of Franconia"
+ 
+ KOF_authoritarian_democrat:0 "Kingdom of Franconia"
+ KOF_authoritarian_democrat_ADJ:0 "Franconian"
+ KOF_authoritarian_democrat_DEF:0 "the Kingdom of Franconia"
+ 
+ KOF_paternal_autocrat:0 "Franconia"
+ KOF_paternal_autocrat_ADJ:0 "Franconian"
+ KOF_paternal_autocrat_DEF:0 "the Kingdom of Franconia"
+ 
+ KOF_national_populist:0 "Franconia"
+ KOF_national_populist_ADJ:0 "Franconian"
+ KOF_national_populist_DEF:0 "the Kingdom of Franconia"
+
+### Parties ###
+ KOF_totalist_party:0 "KTP"
+ KOF_totalist_party_long:0 "KTP"
+ KOF_syndicalist_party:0 "UKP"
+ KOF_syndicalist_party_long:0 "United Front"
+ KOF_radical_socialist_party:0 "Revolutionary Front"
+ KOF_radical_socialist_party_long:0 "Revolutionary Front"
+ KOF_social_democrat_party:0 "SDP"
+ KOF_social_democrat_party_long:0 "SDP"
+ KOF_social_liberal_party:0 "Liberal Party"
+ KOF_social_liberal_party_long:0 "Liberal Party"
+ KOF_market_liberal_party:0 "MLP"
+ KOF_market_liberal_party_long:0 "MLP"
+ KOF_social_conservative_party:0 "Conservative Party"
+ KOF_social_conservative_party_long:0 "Conservative Party"
+ KOF_authoritarian_democrat_party:0 "House of Wrangle"
+ KOF_authoritarian_democrat_party_long:0 "House of Wrangle"
+ KOF_paternal_autocrat_party:0 "FMJ"
+ KOF_paternal_autocrat_party_long:0 "FMJ"
+ KOF_national_populist_party:0 "Fascist Movement"
+ KOF_national_populist_party_long:0 "Fascist Movement"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

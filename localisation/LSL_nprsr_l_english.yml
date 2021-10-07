@@ -1,0 +1,75 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ NPR_totalist:0 "Prussia"
+ NPR_totalist_ADJ:0 "German"
+ NPR_totalist_DEF:0 "Prussia"
+ 
+ NPR_syndicalist:0 "Prussia"
+ NPR_syndicalist_ADJ:0 "German"
+ NPR_syndicalist_DEF:0 "Prussia"
+ 
+ NPR_radical_socialist:0 "New People's Revolutionary Socialist Republic"
+ NPR_radical_socialist_ADJ:0 "German"
+ NPR_radical_socialist_DEF:0 "the New People's Revolutionary Socialist Republic"
+ 
+ NPR_social_democrat:0 "Prussia"
+ NPR_social_democrat_ADJ:0 "German"
+ NPR_social_democrat_DEF:0 "Prussia"
+ 
+ NPR_social_liberal:0 "Prussia"
+ NPR_social_liberal_ADJ:0 "German"
+ NPR_social_liberal_DEF:0 "Prussia"
+ 
+ NPR_market_liberal:0 "Prussia"
+ NPR_market_liberal_ADJ:0 "German"
+ NPR_market_liberal_DEF:0 "Prussia"
+ 
+ NPR_social_conservative:0 "Prussia"
+ NPR_social_conservative_ADJ:0 "German"
+ NPR_social_conservative_DEF:0 "Prussia"
+ 
+ NPR_authoritarian_democrat:0 "Prussia"
+ NPR_authoritarian_democrat_ADJ:0 "German"
+ NPR_authoritarian_democrat_DEF:0 "Prussia"
+ 
+ NPR_paternal_autocrat:0 "Prussia"
+ NPR_paternal_autocrat_ADJ:0 "German"
+ NPR_paternal_autocrat_DEF:0 "Prussia"
+ 
+ NPR_national_populist:0 "Prussia"
+ NPR_national_populist_ADJ:0 "German"
+ NPR_national_populist_DEF:0 "Prussia"
+
+### Parties ###
+ NPR_totalist_party:0 "KTP"
+ NPR_totalist_party_long:0 "KTP"
+ NPR_syndicalist_party:0 "UKP"
+ NPR_syndicalist_party_long:0 "United Front"
+ NPR_radical_socialist_party:0 "Revolutionary Socialist Party"
+ NPR_radical_socialist_party_long:0 "Revolutionary International Socialist Party"
+ NPR_social_democrat_party:0 "SDP"
+ NPR_social_democrat_party_long:0 "SDP"
+ NPR_social_liberal_party:0 "Liberal Party"
+ NPR_social_liberal_party_long:0 "Liberal Party"
+ NPR_market_liberal_party:0 "MLP"
+ NPR_market_liberal_party_long:0 "MLP"
+ NPR_social_conservative_party:0 "Conservative Party"
+ NPR_social_conservative_party_long:0 "Conservative Party"
+ NPR_authoritarian_democrat_party:0 "ADP"
+ NPR_authoritarian_democrat_party_long:0 "ADP"
+ NPR_paternal_autocrat_party:0 "FMJ"
+ NPR_paternal_autocrat_party_long:0 "FMJ"
+ NPR_national_populist_party:0 "Fascist Movement"
+ NPR_national_populist_party_long:0 "Fascist Movement"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 
