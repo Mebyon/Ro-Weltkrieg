@@ -1,0 +1,75 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ ICR_totalist:0 "Socialist Rhine"
+ ICR_totalist_ADJ:0 "German"
+ ICR_totalist_DEF:0 "Rhine"
+ 
+ ICR_syndicalist:0 "Rhine"
+ ICR_syndicalist_ADJ:0 "German"
+ ICR_syndicalist_DEF:0 "Rhine"
+ 
+ ICR_radical_socialist:0 "Socialist Rhine"
+ ICR_radical_socialist_ADJ:0 "German"
+ ICR_radical_socialist_DEF:0 "Rhine"
+ 
+ ICR_social_democrat:0 "Rhine Confederacy"
+ ICR_social_democrat_ADJ:0 "German"
+ ICR_social_democrat_DEF:0 "the Imperial Confederacy of the Rhine"
+ 
+ ICR_social_liberal:0 "Rhine Confederacy"
+ ICR_social_liberal_ADJ:0 "German"
+ ICR_social_liberal_DEF:0 "the Imperial Confederacy of the Rhine"
+ 
+ ICR_market_liberal:0 "Rhine Confederacy"
+ ICR_market_liberal_ADJ:0 "German"
+ ICR_market_liberal_DEF:0 "the Imperial Confederacy of the Rhine"
+ 
+ ICR_social_conservative:0 "Rhine"
+ ICR_social_conservative_ADJ:0 "German"
+ ICR_social_conservative_DEF:0 "the Imperial Confederacy of the Rhine"
+ 
+ ICR_authoritarian_democrat:0 "Rhine Confederacy"
+ ICR_authoritarian_democrat_ADJ:0 "German"
+ ICR_authoritarian_democrat_DEF:0 "the Imperial Confederacy of the Rhine"
+ 
+ ICR_paternal_autocrat:0 "Rhine Confederacy"
+ ICR_paternal_autocrat_ADJ:0 "German"
+ ICR_paternal_autocrat_DEF:0 "the Imperial Confederacy of the Rhine"
+ 
+ ICR_national_populist:0 "Rhine Confederacy"
+ ICR_national_populist_ADJ:0 "German"
+ ICR_national_populist_DEF:0 "the Principality of Kroneland"
+
+### Parties ###
+ ICR_totalist_party:0 "KTP"
+ ICR_totalist_party_long:0 "KTP"
+ ICR_syndicalist_party:0 "UKP"
+ ICR_syndicalist_party_long:0 "United Kronish Front"
+ ICR_radical_socialist_party:0 "Kronelandic Revolutionary Front"
+ ICR_radical_socialist_party_long:0 "Kronelandic Revolutionary Front"
+ ICR_social_democrat_party:0 "SDP"
+ ICR_social_democrat_party_long:0 "SDP"
+ ICR_social_liberal_party:0 "Liberal Party of Kroneland"
+ ICR_social_liberal_party_long:0 "Liberal Party of Kroneland"
+ ICR_market_liberal_party:0 "MLP"
+ ICR_market_liberal_party_long:0 "MLP"
+ ICR_social_conservative_party:0 "Kronelander Conservative Party"
+ ICR_social_conservative_party_long:0 "Kronelander Conservative Party"
+ ICR_authoritarian_democrat_party:0 "House of Koppenhausen"
+ ICR_authoritarian_democrat_party_long:0 "House of Koppenhausen"
+ ICR_paternal_autocrat_party:0 "Koppenhausen Restorationist"
+ ICR_paternal_autocrat_party_long:0 "Kerovech"
+ ICR_national_populist_party:0 "Kerovech"
+ ICR_national_populist_party_long:0 "Kronelandic Fascist Movement"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

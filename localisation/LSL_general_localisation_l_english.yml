@@ -3,8 +3,41 @@
 # Traits 
 #################
 
+#Renamed Vanilla Traits
+ fascist_demagogue:0 "Wehraboo Larper"
+ captain_of_industry:0 "Good Developer"
+ quartermaster_general:0 "Generous Donator"
+ fortification_engineer:0 "Map Developer"
+ armaments_organizer:0 "Gun Scripter"
+ financial_expert:0 "Advertisement Maker"
+ war_industrialist:0 "Gamepass Profitter"
+ politically_connected: "Free Ranked"
+ politically_connected_desc:1 "§LEveryone one day found out that he became officer, but how and when?§!"
+ old_guard:0 "Group Veteran"
+ #old_guard_desc:0 "§LWhile not the most brilliant officer, he is unlikely to cause trouble.§!"
+ #recently_promoted:0 "Free Ranked"
+ 
+#Custom Traits
  autistic:0 "Autistic"
  autistic_desc:0 "Challenges with social skills, repetitive behaviors, speech and nonverbal communication. An average Roblox General."
+ admin_abuser:0 "Admin Abuser"
+ admin_abuser_desc:0 "This user is a rat, he uses his admin powers to gain a terribly unfair advantage during combat."
+ adhd:0 "ADHD"
+ adhd_desc:0 "This user is usually on most of the time, acts like a cuck yet has the ability to use his third, ADHD affected eye to lead his soldiers."
+ grown_adult:0 "Grown Adult"
+ grown_adult_desc:0 "This members is way into his twenties, perhaps a bit too old to play roblox."
+ underage_leader:0 "Underage Leader"
+ underage_leader_desc:0 "This user is usually aged between 11-14. As a result of his under agedness, he is uncapable of leading properly and takes into account his feelings rather than competence."
+ clanner:0 "Clanner"
+ clanner_desc:0 "This user, usually a 14-17 year old officer, likes to clan and use RCL weapons in most of his free time."
+ sneaky_snake:0 "Sneaky Snake"
+ sneaky_snake_desc:0 "This user is a snake, he betrays people and as a result has alot of enemies."
+ functional_member_of_society:0 "Functional Member of Society"
+ functional_member_of_society_desc:0 "This member has a job, acquaintances, sometimes even a family to look after; roblox is barely a leisure for him, he won't be active as much but surely cooler headed than most people."
+ angtsy_teen:0 "Angtsy Teenager"
+ angtsy_teen_desc:0 "A rebellious teenager who hates being ordered around and instead takes out most of his anger on his soldiers."
+ a_high_leader:0 "A High Leader"
+ a_high_leader_desc:0 "This leader always is smoking or is just backwards."
  
 ##################
 ### Ideologies ###
