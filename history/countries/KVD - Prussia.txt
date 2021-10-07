@@ -1,0 +1,72 @@
+﻿capital = 763
+
+set_research_slots = 3
+
+add_ideas = {
+
+}
+
+set_stability = 0.4
+set_war_support = 0.6
+set_technology = {
+	infantry_weapons = 2
+	infantry_weapons1 = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	tech_support = 1		
+	tech_engineers = 1
+	early_fighter = 1
+	early_bomber = 1
+	tech_recon = 1
+}
+
+if = {
+	limit = { has_dlc = "Man the Guns" }
+	set_technology = {
+		basic_naval_mines = 1
+		submarine_mine_laying = 1
+		early_ship_hull_light = 1
+		basic_ship_hull_light = 1
+		early_ship_hull_submarine = 1
+		early_ship_hull_cruiser = 1
+		basic_battery = 1
+		basic_secondary_battery = 1
+		basic_torpedo = 1
+		coastal_defense_ships = 1
+	}
+}
+
+set_convoys = 200
+
+set_politics = {
+	ruling_party = authoritarian_democrat
+	last_election = "never"
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = {
+	totalist = 0
+	radical_socialist = 0
+	syndicalist = 0
+	social_democrat = 0
+	social_liberal = 0
+	market_liberal = 0
+	social_conservative = 10
+	authoritarian_democrat = 10
+	paternal_autocrat = 60
+	national_populist = 20
+}
+
+create_country_leader = {
+	name = "Rovvik Dietrich"
+	desc = ""
+	picture = "RokkviFettDietrich.dds"
+	expire = "1942.1.1"
+	ideology = authoritarian_democrat_subtype
+	traits = {
+		#
+	}
+}
+
+
+}
