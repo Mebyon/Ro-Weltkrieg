@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ UBR:0 "United Baltic Duchy"
+ UBR_DEF:0 "United Baltic Duchy"
+ UBR_ADJ:0 "Livonian"
+
+### Parties ###
+ UBR_anarchism_type_party:0 "TEMP"
+ UBR_anarchism_type_party_long:0 "TEMP"
+ UBR_authoritarian_socialism_party:0 "TEMP"
+ UBR_authoritarian_socialism_long:0 "TEMP" 
+ UBR_popular_socialism_party:0 "TEMP"
+ UBR_popular_socialism_party_long:0 "TEMP" 
+ UBR_liberalism_party:0 "TEMP"
+ UBR_liberalism_long:0 "TEMP"
+ UBR_conservatism_party:0 "TEMP"
+ UBR_conservatism_party_long:0 "TEMP"
+ UBR_authoritarian_democrat_party:0 "TEMP"
+ UBR_authoritarian_democrat_party_long:0 "TEMP"
+ UBR_despotism_type_party:0 "TEMP"
+ UBR_despotism_type_party_long:0 "TEMP"
+ UBR_reactionarism_party:0 "TEMP"
+ UBR_reactionarism_party_long:0 "TEMP"
+ UBR_national_populism_party:0 "TEMP"
+ UBR_national_populism_party_long:0 "TEMP"
+ UBR_ultranationalism_party:0 "TEMP"
+ UBR_ultranationalism_party_long:0 "TEMP"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

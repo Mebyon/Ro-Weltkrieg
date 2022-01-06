@@ -1,0 +1,34 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Desc ###
+ DR_SUN_DESC:0 "Founder of the Republic"
+ father_of_the_republic:0 "Father of the Republic"
+
+### Cosmetic Tags ###
+ CHN:0 "Republic of China"
+ CHN_ADJ:0 "Republic of China"
+ CHN_DEF:0 "Chinese"
+
+### Parties ###
+ CHN_anarchism_type_party:0 "TEMP"
+ CHN_anarchism_type_party_long:0 "TEMP"
+ CHN_authoritarian_socialism_party:0 "TEMP"
+ CHN_authoritarian_socialism_long:0 "TEMP" 
+ CHN_popular_socialism_party:0 "TEMP"
+ CHN_popular_socialism_party_long:0 "TEMP" 
+ CHN_liberalism_party:0 "TEMP"
+ CHN_liberalism_long:0 "TEMP"
+ CHN_conservatism_party:0 "TEMP"
+ CHN_conservatism_party_long:0 "TEMP"
+ CHN_authoritarian_democrat_party:0 "TEMP"
+ CHN_authoritarian_democrat_party_long:0 "TEMP"
+ CHN_despotism_type_party:0 "TEMP"
+ CHN_despotism_type_party_long:0 "TEMP"
+ CHN_reactionarism_party:0 "TEMP"
+ CHN_reactionarism_party_long:0 "TEMP"
+ CHN_national_populism_party:0 "TEMP"
+ CHN_national_populism_party_long:0 "TEMP"
+ CHN_ultranationalism_party:0 "TEMP"
+ CHN_ultranationalism_party_long:0 "TEMP"

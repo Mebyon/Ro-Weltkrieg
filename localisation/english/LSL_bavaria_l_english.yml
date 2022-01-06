@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ KOB:0 "Kingdom of Bavaria"
+ KOB_ADJ:0 "Bavarian"
+ KOB_DEF:0 "the Kingdom of Bavaria"
+
+### Parties ###
+ KOB_anarchism_type_party:0 "TEMP"
+ KOB_anarchism_type_party_long:0 "TEMP"
+ KOB_authoritarian_socialism_party:0 "TEMP"
+ KOB_authoritarian_socialism_long:0 "TEMP" 
+ KOB_popular_socialism_party:0 "TEMP"
+ KOB_popular_socialism_party_long:0 "TEMP" 
+ KOB_liberalism_party:0 "TEMP"
+ KOB_liberalism_long:0 "TEMP"
+ KOB_conservatism_party:0 "TEMP"
+ KOB_conservatism_party_long:0 "TEMP"
+ KOB_authoritarian_democrat_party:0 "TEMP"
+ KOB_authoritarian_democrat_party_long:0 "TEMP"
+ KOB_despotism_type_party:0 "TEMP"
+ KOB_despotism_type_party_long:0 "TEMP"
+ KOB_reactionarism_party:0 "TEMP"
+ KOB_reactionarism_party_long:0 "TEMP"
+ KOB_national_populism_party:0 "TEMP"
+ KOB_national_populism_party_long:0 "TEMP"
+ KOB_ultranationalism_party:0 "TEMP"
+ KOB_ultranationalism_party_long:0 "TEMP"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

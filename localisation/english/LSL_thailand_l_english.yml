@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ PSM:0 "Kingdom of Thailand"
+ PSM_DEF:0 "Kingdom of Thailand"
+ PSM_ADJ:0 "Thai"
+
+### Parties ###
+ PSM_anarchism_type_party:0 "TEMP"
+ PSM_anarchism_type_party_long:0 "TEMP"
+ PSM_authoritarian_socialism_party:0 "TEMP"
+ PSM_authoritarian_socialism_long:0 "TEMP"
+ PSM_popular_socialism_party:0 "TEMP"
+ PSM_popular_socialism_party_long:0 "TEMP"
+ PSM_liberalism_party:0 "TEMP"
+ PSM_liberalism_long:0 "TEMP"
+ PSM_conservatism_party:0 "TEMP"
+ PSM_conservatism_party_long:0 "TEMP"
+ PSM_authoritarian_democrat_party:0 "TEMP"
+ PSM_authoritarian_democrat_party_long:0 "TEMP"
+ PSM_despotism_type_party:0 "TEMP"
+ PSM_despotism_type_party_long:0 "TEMP"
+ PSM_reactionarism_party:0 "TEMP"
+ PSM_reactionarism_party_long:0 "TEMP"
+ PSM_national_populism_party:0 "TEMP"
+ PSM_national_populism_party_long:0 "TEMP"
+ PSM_ultranationalism_party:0 "TEMP"
+ PSM_ultranationalism_party_long:0 "TEMP"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

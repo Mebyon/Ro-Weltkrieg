@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ IRF:0 "Robloxian Soviet Socialist Republic"
+ IRF_ADJ:0 "the Robloxian Soviet Socialist Republic"
+ IRF_DEF:0 "Russian"
+
+### Parties ###
+ IRF_anarchism_type_party:0 "Anarchist Movement"
+ IRF_anarchism_type_party_long:0 "Anarchist Movement"
+ IRF_authoritarian_socialism_party:0 "All-Union Communist Party"
+ IRF_authoritarian_socialism_long:0 "All-Union Communist Party"
+ IRF_popular_socialism_party:0 "Yakovist Party"
+ IRF_popular_socialism_party_long:0 "The Yakovist Loyalist Party"
+ IRF_liberalism_party:0 "Popular Front"
+ IRF_liberalism_long:0 "Popular Front of the Federation"
+ IRF_conservatism_party:0 "Conservative Party of the Federation"
+ IRF_conservatism_party_long:0 "Conservative Party of the Federation"
+ IRF_authoritarian_democrat_party:0 "Democratic Monarchist Party"
+ IRF_authoritarian_democrat_party_long:0 "Democratic Monarchist Party of the Federation"
+ IRF_despotism_type_party:0 "Military Government"
+ IRF_despotism_type_party_long:0 "Military Government"
+ IRF_reactionarism_party:0 "Revolutionary Order of the Ezic Star"
+ IRF_reactionarism_party_long:0 "Revolutionary Order of the Ezic Star"
+ IRF_national_populism_party:0 "Ortho-Chauvin Loyalists"
+ IRF_national_populism_party_long:0 "Ortho-Chauvin Loyalists"
+ IRF_ultranationalism_party:0 "Union of Imperial Nationalists"
+ IRF_ultranationalism_party_long:0 "Union of Imperial Nationalists"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

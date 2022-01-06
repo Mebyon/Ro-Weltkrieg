@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ MLY:0 "Federation of Malaysia"
+ MLY_DEF:0 "Malaysian Federation"
+ MLY_ADJ:0 "Malaysian"
+
+### Parties ###
+ MLY_anarchism_type_party:0 "TEMP"
+ MLY_anarchism_type_party_long:0 "TEMP"
+ MLY_authoritarian_socialism_party:0 "TEMP"
+ MLY_authoritarian_socialism_long:0 "TEMP" 
+ MLY_popular_socialism_party:0 "TEMP"
+ MLY_popular_socialism_party_long:0 "TEMP" 
+ MLY_liberalism_party:0 "TEMP"
+ MLY_liberalism_long:0 "TEMP"
+ MLY_conservatism_party:0 "TEMP"
+ MLY_conservatism_party_long:0 "TEMP"
+ MLY_authoritarian_democrat_party:0 "TEMP"
+ MLY_authoritarian_democrat_party_long:0 "TEMP"
+ MLY_despotism_type_party:0 "TEMP"
+ MLY_despotism_type_party_long:0 "TEMP"
+ MLY_reactionarism_party:0 "TEMP"
+ MLY_reactionarism_party_long:0 "TEMP"
+ MLY_national_populism_party:0 "TEMP"
+ MLY_national_populism_party_long:0 "TEMP"
+ MLY_ultranationalism_party:0 "TEMP"
+ MLY_ultranationalism_party_long:0 "TEMP"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

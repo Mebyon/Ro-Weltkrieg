@@ -1,0 +1,40 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+
+ ICR:0 "Confederacy of the Rhine"
+ ICR_ADJ:0 "German"
+ ICR_DEF:0 "the Imperial Confederacy of the Rhine"
+
+### Parties ###
+ ICR_anarchism_type_party:0 "TEMP"
+ ICR_anarchism_type_party_long:0 "TEMP"
+ ICR_authoritarian_socialism_party:0 "TEMP"
+ ICR_authoritarian_socialism_long:0 "TEMP" 
+ ICR_popular_socialism_party:0 "TEMP"
+ ICR_popular_socialism_party_long:0 "TEMP" 
+ ICR_liberalism_party:0 "TEMP"
+ ICR_liberalism_long:0 "TEMP"
+ ICR_conservatism_party:0 "TEMP"
+ ICR_conservatism_party_long:0 "TEMP"
+ ICR_authoritarian_democrat_party:0 "TEMP"
+ ICR_authoritarian_democrat_party_long:0 "TEMP"
+ ICR_despotism_type_party:0 "Order of Kerovech"
+ ICR_despotism_type_party_long:0 "Order of Kerovech"
+ ICR_reactionarism_party:0 "TEMP"
+ ICR_reactionarism_party_long:0 "TEMP"
+ ICR_national_populism_party:0 "TEMP"
+ ICR_national_populism_party_long:0 "TEMP"
+ ICR_ultranationalism_party:0 "TEMP"
+ ICR_ultranationalism_party_long:0 "TEMP"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

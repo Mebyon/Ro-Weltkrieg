@@ -1,0 +1,129 @@
+﻿l_english:
+##################
+### Ideologies ###
+##################
+
+### Names ###
+ anarchism_type:0 "Anarchism"
+ authoritarian_socialism:0 "Auth.Socialism"
+ popular_socialism:0 "Popular Socialism"
+ liberalism:0 "Liberalism"
+ conservatism:0 "Conservatism"
+ authoritarian_democrat:0 "Authoritarian Dem."
+ despotism_type:0 "Despotism"
+ reactionarism:0 "Reactionarism"
+ national_populism: "National Populism"
+ ultranationalism:0 "Ultranationalism"
+ 
+### Nouns ###
+ anarchism_type_noun:0 "Anarchism"
+ authoritarian_socialism_noun:0 "Authoritarian Socialism"
+ popular_socialism_noun:0 "Popular Socialism"
+ liberalism_noun:0 "Liberalism"
+ conservatism_noun:0 "Conservatism"
+ authoritarian_democrat_noun:0 "Authoritarian Dem."
+ despotism_type_noun:0 "Despotism"
+ reactionarism_noun:0 "Reactionarism"
+ national_populism_noun: "National Populism"
+ ultranationalism_noun:0 "Ultranationalism"
+
+### Ideology Grouping ###
+ kr_government_grouping:0 "Ideological Group"
+ anarchism_type_desc:0 "Anarchism"
+ authoritarian_socialism_desc:0 "Revolutionary"
+ popular_socialism_desc:0 "Revolutionary"
+ liberalism_desc:0 "Centrist"
+ conservatism_desc:0 "Centrist"
+ authoritarian_democrat_desc:0 "Centrist"
+ despotism_type_desc:0 "Despotistic"
+ reactionarism_desc:0 "Reactionary"
+ national_populism_desc: "Reactionary"
+ ultranationalism_desc:0 "Reactionary"
+ 
+### Subtype Descriptions ###
+ #stateless_anarchy
+ #anarcho_syndicalist
+ #state_socialism
+ #theocratic_socialist
+ #stalinism_subtype
+ #democratic_socialist
+ #council_communism
+ #syndicalism_subtype
+ #social_liberal
+ #social_democrat
+ #liberal_conservatism
+ #social_conservative
+ #national_conservatism
+ #authoritarian_democrat_subtype
+ #constitutional_monarchy
+ #autocrat
+ #military_junta
+ #absolute_monarchy
+ #colonial_government
+ #warlord_government
+ #reactionary_populism
+ #religious_fundamentalism
+ #esoteric_reactionism
+ #national_populist
+ #democratic_nationalism
+ #fascism_subtype
+ #royal_populism
+ #ultranationalist
+ #national_communism
+ #futurist
+ 
+### Drift ###
+ anarchism_type_drift:0 "Daily Anarchism Support"
+ authoritarian_socialism_drift:0 "Daily Authoritarian Socialism Support"
+ popular_socialism_drift:0 "Daily Popular Socialism Support"
+ liberalism_drift:0 "Daily Liberalism Support"
+ conservatism_drift:0 "Conservatism"
+ authoritarian_democrat_drift:0 "Daily Authoritarian Democrat Support"
+ despotism_type_drift:0 "Daily Despotism Support"
+ reactionarism_drift:0 "Daily Reactionarism Support"
+ national_populism_drift: "Daily National Populism Support"
+ ultranationalism_drift:0 "Daily Ultranationalism Support"
+
+############################
+############################
+############################
+
+### Focus Filters ###
+ FOCUS_FILTER_PRODUCTION:0 "Production"
+ FOCUS_FILTER_ARMY_BONUS:0 "Army"
+ FOCUS_FILTER_NAVY_BONUS:0 "Navy"
+ FOCUS_FILTER_AIRFORCE_BONUS:0 "Air Force"
+ FOCUS_FILTER_RESISTANCE:0 "Resistance"
+ FOCUS_FILTER_LEC_CURRENCY:0 "Currency Reserves"
+ 
+ 
+### Idea Category
+ government:0 "Government Laws"
+ minister_slot:0 "Government Ministers"
+ military_staff_slot:0 "Military Staff"
+ research_production_slot:0 "Research and Production"
+ 
+ minister:0 "Government Ministers"
+ military_staff:0 "Military Staff"
+ research_production:0 "Research and Production"
+ 
+ ###
+
+ head_of_government:0 "Head of Government"
+ economy_minister:0 "Economy Minister"
+ foreign_minister:0 "Foreign Minister"
+ security_minister:0 "Interior Minister"
+ advisor:0 "Political Advisor"
+ 
+ mobilization_laws:0 "Mobilization Laws"
+ 
+ chief_of_staff:0 "Chief of Staff"
+ chief_of_army:0 "Head of Army"
+ chief_of_navy:0 "Head of Navy"
+ chief_of_air_force:0 "Head of Air Force"
+ theorist:0 "Theorist"
+ 
+ aircraft_manufacturer:0 "Aircraft Manufacturer"
+ weapons_manufacturer:0 "Weapons Manufacturer"
+ 
+ generic_trait:0 "Generic Trait"

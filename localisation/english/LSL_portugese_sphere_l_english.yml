@@ -1,0 +1,64 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ GPT:0 "Portuguese Republic"
+ GPT_DEF:0 "Portugal"
+ GPT_ADJ:0 "Portuguese"
+ 
+ BRZ:0 "Federative Republic of Brazil"
+ BRZ_DEF:0 "Brazil"
+ BRZ_ADJ:0 "Brazillian"
+
+### Parties ###
+ GPT_anarchism_type_party:0 "TEMP"
+ GPT_anarchism_type_party_long:0 "TEMP"
+ GPT_authoritarian_socialism_party:0 "TEMP"
+ GPT_authoritarian_socialism_long:0 "TEMP" 
+ GPT_popular_socialism_party:0 "TEMP"
+ GPT_popular_socialism_party_long:0 "TEMP" 
+ GPT_liberalism_party:0 "TEMP"
+ GPT_liberalism_long:0 "TEMP"
+ GPT_conservatism_party:0 "TEMP"
+ GPT_conservatism_party_long:0 "TEMP"
+ GPT_authoritarian_democrat_party:0 "TEMP"
+ GPT_authoritarian_democrat_party_long:0 "TEMP"
+ GPT_despotism_type_party:0 "TEMP"
+ GPT_despotism_type_party_long:0 "TEMP"
+ GPT_reactionarism_party:0 "TEMP"
+ GPT_reactionarism_party_long:0 "TEMP"
+ GPT_national_populism_party:0 "TEMP"
+ GPT_national_populism_party_long:0 "TEMP"
+ GPT_ultranationalism_party:0 "TEMP"
+ GPT_ultranationalism_party_long:0 "TEMP"
+ 
+ BRZ_anarchism_type_party:0 "TEMP"
+ BRZ_anarchism_type_party_long:0 "TEMP"
+ BRZ_authoritarian_socialism_party:0 "TEMP"
+ BRZ_authoritarian_socialism_long:0 "TEMP" 
+ BRZ_popular_socialism_party:0 "TEMP"
+ BRZ_popular_socialism_party_long:0 "TEMP" 
+ BRZ_liberalism_party:0 "TEMP"
+ BRZ_liberalism_long:0 "TEMP"
+ BRZ_conservatism_party:0 "TEMP"
+ BRZ_conservatism_party_long:0 "TEMP"
+ BRZ_authoritarian_democrat_party:0 "TEMP"
+ BRZ_authoritarian_democrat_party_long:0 "TEMP"
+ BRZ_despotism_type_party:0 "TEMP"
+ BRZ_despotism_type_party_long:0 "TEMP"
+ BRZ_reactionarism_party:0 "TEMP"
+ BRZ_reactionarism_party_long:0 "TEMP"
+ BRZ_national_populism_party:0 "TEMP"
+ BRZ_national_populism_party_long:0 "TEMP"
+ BRZ_ultranationalism_party:0 "TEMP"
+ BRZ_ultranationalism_party_long:0 "TEMP"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ USM:0 "United States of America"
+ USM_DEF:0 "the United States of America"
+ USM_ADJ:0 "American"
+
+### Parties ###
+ USM_anarchism_type_party:0 "Anarchy"
+ USM_anarchism_type_party_long:0 "Anarchy"
+ USM_authoritarian_socialism_party:0 "Communist Party of America"
+ USM_authoritarian_socialism_long:0 "Communist Party of America"
+ USM_popular_socialism_party:0 "Workers of America"
+ USM_popular_socialism_party_long:0 "Workers of America"
+ USM_liberalism_party:0 "Liberty for Athiests"
+ USM_liberalism_long:0 "Liberty for Athiests"
+ USM_conservatism_party:0 "Reformed Union of Nerferdites"
+ USM_conservatism_party_long:0 "Reformed Union of Nerferdites"
+ USM_authoritarian_democrat_party:0 "House of Model"
+ USM_authoritarian_democrat_party_long:0 "House of Model"
+ USM_despotism_type_party:0 "Military Government"
+ USM_despotism_type_party_long:0 "Military Government"
+ USM_reactionarism_party:0 "Grand American National Front"
+ USM_reactionarism_party_long:0 "Grand American National Front"
+ USM_national_populism_party:0 "Austratt Loyalists"
+ USM_national_populism_party_long:0 "Austratt Loyalists"
+ USM_ultranationalism_party:0 "Order of the Patriots"
+ USM_ultranationalism_party_long:0 "Order of the Patriots"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

@@ -1,0 +1,43 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Descs and Traits ###
+ CZO_movethisway:0 "MoveThisWay"
+ MOVE_DESC:0 "MoveThisWay is a writer and a military commander. Move spent his entire childhood in Warsaw and later attended law school of St. Petersburg but was expelled in 1899 for participating in student protests against Russian oppression in Poland. The young intellect would later found himself in Paris, where he joined small radical circles. After the collapse of the Third French Republic in 1902, Move was forced to relocate to Geneva of Switzerland, where Move became further involved in radical circles.\n\nMove was eventually reached out by Joseph Parkolov, leader of the West-Slavic Liberation Front, which he gladly helped. During the 1917 October Revolution, Move volunteered to the newly founded Polish Armed Forces to fight for her independence. After a huge political turmoil in Europe at the time, Poland was eventually replaced by the Kingdom of Czonia, the country of Czechs, Poles, Slovaks, and Ukrainians. \n\nMove was appointed War Minister of Czonia. During the 1929 crisis, the Czonian ruling house was brutally murdered in a coup attempt. The coup was stopped and Move declared himself as regent. The kingdom is put in total military dictatorship as Move was trying to find a suitable candidate for the Czonian throne."
+ holy_regent:0 "Holy Regent of Czonia"
+ defender_of_faith:0 "Defender of Faith"
+
+### Cosmetic Tags ###
+ CZO:0 "Kingdom of Czonia"
+ CZO_ADJ:0 "Czonian"
+ CZO_DEF:0 "Kingdom of Czonia"
+ 
+### Parties ###
+ CZO_anarchism_type_party:0 "Anachizm"
+ CZO_anarchism_type_party_long:0 "Anarchist Movement"
+ CZO_authoritarian_socialism_party:0 "Socaliztov Partya Revolucyna"
+ CZO_authoritarian_socialism_long:0 "Socialist Revolutionary Party" 
+ CZO_popular_socialism_party:0 "Stosial-Demkrat Partya"
+ CZO_popular_socialism_party_long:0 "Social Democratic Party" 
+ CZO_liberalism_party:0 "Demkratcsa Koaliya Czonia"
+ CZO_liberalism_long:0 "Democratic Coalition of Czonia"
+ CZO_conservatism_party:0 "Czonian Partya Konservattvy"
+ CZO_conservatism_party_long:0 "Czonian Conservative Party"
+ CZO_authoritarian_democrat_party:0 "Budynom Kiroyi"
+ CZO_authoritarian_democrat_party_long:0 "House of Kiroy"
+ CZO_despotism_type_party:0 "Regency Council"
+ CZO_despotism_type_party_long:0 "Regency Council"
+ CZO_reactionarism_party:0 "Swyasyno Bohow"
+ CZO_reactionarism_party_long:0 "The Holy Sons of God"
+ CZO_national_populism_party:0 "Ruch Natonalwy"
+ CZO_national_populism_party_long:0 "The National Movement"
+ CZO_ultranationalism_party:0 "Sakhodnislov Zperennya"
+ CZO_ultranationalism_party_long:0 "West-Slavic Liberation Front"
+
+### Ideas ###
+
+### Focus ###
+ 
+### Events ###
+ 

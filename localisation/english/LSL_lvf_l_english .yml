@@ -1,0 +1,43 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ### Grand État Français
+ LVF:0 "National France"
+ LVF_DEF:0 "National France"
+ LVF_ADJ:0 "French"
+ 
+ LVF_national_populism:0 "Grand État Français"
+ LVF_national_populism_DEF:0 "Grand État Français"
+ LVF_national_populism_ADJ:0 "French"
+
+### Parties ###
+ LVF_anarchism_type_party:0 "TEMP"
+ LVF_anarchism_type_party_long:0 "TEMP"
+ LVF_authoritarian_socialism_party:0 "TEMP"
+ LVF_authoritarian_socialism_long:0 "TEMP" 
+ LVF_popular_socialism_party:0 "TEMP"
+ LVF_popular_socialism_party_long:0 "TEMP" 
+ LVF_liberalism_party:0 "TEMP"
+ LVF_liberalism_long:0 "TEMP"
+ LVF_conservatism_party:0 "TEMP"
+ LVF_conservatism_party_long:0 "TEMP"
+ LVF_authoritarian_democrat_party:0 "TEMP"
+ LVF_authoritarian_democrat_party_long:0 "TEMP"
+ LVF_despotism_type_party:0 "TEMP"
+ LVF_despotism_type_party_long:0 "TEMP"
+ LVF_reactionarism_party:0 "TEMP"
+ LVF_reactionarism_party_long:0 "TEMP"
+ LVF_national_populism_party:0 "Renault SA"
+ LVF_national_populism_party_long:0 "Renault SA"
+ LVF_ultranationalism_party:0 "TEMP"
+ LVF_ultranationalism_party_long:0 "TEMP"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

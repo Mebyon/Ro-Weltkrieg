@@ -1,0 +1,51 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ GAR_authoritarian_socialism:0 "Socialist Alemannia"
+ GAR_authoritarian_socialism_ADJ:0 "Alemannian"
+ GAR_authoritarian_socialism_DEF:0 "Alemannia"
+ 
+# GAR_despotism:0 "Alemannic Military Junta"
+# GAR_despotism_ADJ:0 "Alemannian"
+# GAR_despotism_DEF:0 "the Alemannic Military Junta"
+
+ GAR_despotism:0 "Alemannic Realm"
+ GAR_despotism_ADJ:0 "Alemannian"
+ GAR_despotism_DEF:0 "the Alemannic Realm"
+ 
+ GAR:0 "Alemannic Realm"
+ GAR_ADJ:0 "Alemannian"
+ GAR_DEF:0 "the Alemannic Realm"
+ 
+### Parties ###
+ GAR_anarchism_type_party:0 "TEMP"
+ GAR_anarchism_type_party_long:0 "TEMP"
+ GAR_authoritarian_socialism_party:0 "TEMP"
+ GAR_authoritarian_socialism_long:0 "TEMP" 
+ GAR_popular_socialism_party:0 "TEMP"
+ GAR_popular_socialism_party_long:0 "TEMP" 
+ GAR_liberalism_party:0 "TEMP"
+ GAR_liberalism_long:0 "TEMP"
+ GAR_conservatism_party:0 "TEMP"
+ GAR_conservatism_party_long:0 "TEMP"
+ GAR_authoritarian_democrat_party:0 "TEMP"
+ GAR_authoritarian_democrat_party_long:0 "TEMP"
+ GAR_despotism_type_party:0 "League of Alemannic Unity"
+ GAR_despotism_type_party_long:0 "League of Alemannic Unity"
+ GAR_reactionarism_party:0 "TEMP"
+ GAR_reactionarism_party_long:0 "TEMP"
+ GAR_national_populism_party:0 "TEMP"
+ GAR_national_populism_party_long:0 "TEMP"
+ GAR_ultranationalism_party:0 "TEMP"
+ GAR_ultranationalism_party_long:0 "TEMP"
+
+### Traits ###
+
+### Ideas ###
+
+### Focus ###
+ 
+### Events ###
+ 

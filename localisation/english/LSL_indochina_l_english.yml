@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ DVN:0 "Empire of Vietnam"
+ DVN_DEF:0 "Empire of Vietnam"
+ DVN_ADJ:0 "Vietnamese"
+
+### Parties ###
+ DVN_anarchism_type_party:0 "TEMP"
+ DVN_anarchism_type_party_long:0 "TEMP"
+ DVN_authoritarian_socialism_party:0 "TEMP"
+ DVN_authoritarian_socialism_long:0 "TEMP" 
+ DVN_popular_socialism_party:0 "TEMP"
+ DVN_popular_socialism_party_long:0 "TEMP" 
+ DVN_liberalism_party:0 "TEMP"
+ DVN_liberalism_long:0 "TEMP"
+ DVN_conservatism_party:0 "TEMP"
+ DVN_conservatism_party_long:0 "TEMP"
+ DVN_authoritarian_democrat_party:0 "TEMP"
+ DVN_authoritarian_democrat_party_long:0 "TEMP"
+ DVN_despotism_type_party:0 "TEMP"
+ DVN_despotism_type_party_long:0 "TEMP"
+ DVN_reactionarism_party:0 "TEMP"
+ DVN_reactionarism_party_long:0 "TEMP"
+ DVN_national_populism_party:0 "TEMP"
+ DVN_national_populism_party_long:0 "TEMP"
+ DVN_ultranationalism_party:0 "TEMP"
+ DVN_ultranationalism_party_long:0 "TEMP"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

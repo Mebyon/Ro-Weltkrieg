@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ KAL:0 "Albanian Kingdom"
+ KAL_DEF:0 "Albania"
+ KAL_ADJ:0 "Albanian"
+
+### Parties ###
+ KAL_anarchism_type_party:0 "TEMP"
+ KAL_anarchism_type_party_long:0 "TEMP"
+ KAL_authoritarian_socialism_party:0 "TEMP"
+ KAL_authoritarian_socialism_long:0 "TEMP" 
+ KAL_popular_socialism_party:0 "TEMP"
+ KAL_popular_socialism_party_long:0 "TEMP" 
+ KAL_liberalism_party:0 "TEMP"
+ KAL_liberalism_long:0 "TEMP"
+ KAL_conservatism_party:0 "TEMP"
+ KAL_conservatism_party_long:0 "TEMP"
+ KAL_authoritarian_democrat_party:0 "TEMP"
+ KAL_authoritarian_democrat_party_long:0 "TEMP"
+ KAL_despotism_type_party:0 "TEMP"
+ KAL_despotism_type_party_long:0 "TEMP"
+ KAL_reactionarism_party:0 "TEMP"
+ KAL_reactionarism_party_long:0 "TEMP"
+ KAL_national_populism_party:0 "TEMP"
+ KAL_national_populism_party_long:0 "TEMP"
+ KAL_ultranationalism_party:0 "TEMP"
+ KAL_ultranationalism_party_long:0 "TEMP"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

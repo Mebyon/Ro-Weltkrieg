@@ -1,0 +1,30 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ KRS:0 "Korean Revolutionary Superstate"
+ KRS_ADJ:0 "Korean"
+ KRS_DEF:0 "Korea"
+
+### Parties ###
+ KRS_anarchism_type_party:0 "TEMP"
+ KRS_anarchism_type_party_long:0 "TEMP"
+ KRS_authoritarian_socialism_party:0 "TEMP"
+ KRS_authoritarian_socialism_long:0 "TEMP" 
+ KRS_popular_socialism_party:0 "TEMP"
+ KRS_popular_socialism_party_long:0 "TEMP" 
+ KRS_liberalism_party:0 "TEMP"
+ KRS_liberalism_long:0 "TEMP"
+ KRS_conservatism_party:0 "TEMP"
+ KRS_conservatism_party_long:0 "TEMP"
+ KRS_authoritarian_democrat_party:0 "TEMP"
+ KRS_authoritarian_democrat_party_long:0 "TEMP"
+ KRS_despotism_type_party:0 "TEMP"
+ KRS_despotism_type_party_long:0 "TEMP"
+ KRS_reactionarism_party:0 "TEMP"
+ KRS_reactionarism_party_long:0 "TEMP"
+ KRS_national_populism_party:0 "TEMP"
+ KRS_national_populism_party_long:0 "TEMP"
+ KRS_ultranationalism_party:0 "TEMP"
+ KRS_ultranationalism_party_long:0 "TEMP"

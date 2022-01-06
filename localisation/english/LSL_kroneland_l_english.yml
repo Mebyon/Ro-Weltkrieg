@@ -1,0 +1,44 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ POK:0 "Kroneland"
+ POK_DEF:0 "the Principality of Kroneland"
+ POK_ADJ:0 "Kronmannen"
+
+### Parties ### 
+ POK_anarchism_type_party:0 "KTP"
+ POK_anarchism_type_party_long:0 "KTP"
+ POK_authoritarian_socialism_party:0 "UKP"
+ POK_authoritarian_socialism_long:0 "United Kronish Front"
+ POK_popular_socialism_party:0 "Kronelandic Revolutionary Front"
+ POK_popular_socialism_party_long:0 "Kronelandic Revolutionary Front"
+ POK_liberalism_party:0 "SDP"
+ POK_liberalism_long:0 "SDP"
+ POK_conservatism_party:0 "Liberal Party of Kroneland"
+ POK_conservatism_party_long:0 "Liberal Party of Kroneland"
+ POK_authoritarian_democrat_party:0 "House of Koppenhausen"
+ POK_authoritarian_democrat_party_long:0 "House of Koppenhausen"
+ POK_despotism_type_party:0 "Koppenhausen Restorationist"
+ POK_despotism_type_party_long:0 "Koppenhausen Restorationist"
+ POK_reactionarism_party:0 "KFM"
+ POK_reactionarism_party_long:0 "Kronelandic Fascist Movement"
+ POK_national_populism_party:0 "MLP"
+ POK_national_populism_party_long:0 "MLP"
+ POK_ultranationalism_party:0 "UNP"
+ POK_ultranationalism_party_long:0 "UNP"
+
+### Traits ###
+
+### Ideas ###
+ house_of_koppenhausen:0 "House of Koppenhausen"
+ house_of_koppenhausen_desc:0 "The House of Koppenhausen has been the dominant faction and dynasty in the Nordic and Scandinavian regions. Leading one of RWW2's most profound nations, they also have family members and inheritants of the bloodline in multiple more groups both in and out of RWW2. Maintaining their image and relationship in the genre, they have experienced hiatuses, downfalls and upbringings."
+ anti_communism:0 "Anti-Communism"
+ anti_communism_desc:0 "Kroneland has a strong stigma and staunch attitude against Communism since its formation. With the communist resistance usually operating as an unconventional guerrilla force against the Monarchists, the Koppenhausens have always cracked down on such resistance, restricting labor unions from forming and having a strong national presence to contain communism. Being one of the exact opposite ideologies of the left, they continue to act against it as it fails to gain a majority in the government."
+
+### Focus ###
+ 
+### Events ###
+ lothairs_death:0 "On the 17th of July, 1942, the Kroneish anthem was played. With a sad tune, the broadcast had hit the country. \n"It is with great sadness that we announce the passing of our beloved Grand Prince Lothair I. His Highness passed away peacefully last night at his summer estate in Sømmerset, in the company of his four sons. The nation will observe one week of mourning. \nHe will be succeeded by his eldest son Walther, now Grand Prince Walther I. May his reign be filled with prosperity and greatness." \nThe entire nation was shook, people mourned, they cried, whined, they paid their respects to the now dead leader.\nThe young leader, sworn in the day after, took an oath to uphold the duties of the nation, and the new day of life arose with this."
+ glaeden_coup:0 "It was 8:00 AM, the Iron Marshal had gotten a call. "It was time, Glaeden. The coup begins now." Without any hesitation, he smashed the phone back into place, grabbed his coat and hat, and ran off to his vehicle. He arrived to the cities garrison, now ordering the reserve units to form up, where then he'd lead them and march on the city. There, they secure places like the bridge, palace, police station and eventually the streets.\nWith little to no resistance, the popular Marshal had managed to topple the country with his fist, now sending off his first broadcast, the declaration of the new Military Junta."

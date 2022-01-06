@@ -1,0 +1,30 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ PCA:0 "Philippines Commonwealth"
+ PCA_ADJ:0 "Filipino"
+ PCA_DEF:0 "The Philippines"
+
+### Parties ###
+ PCA_anarchism_type_party:0 "TEMP"
+ PCA_anarchism_type_party_long:0 "TEMP"
+ PCA_authoritarian_socialism_party:0 "TEMP"
+ PCA_authoritarian_socialism_long:0 "TEMP" 
+ PCA_popular_socialism_party:0 "TEMP"
+ PCA_popular_socialism_party_long:0 "TEMP" 
+ PCA_liberalism_party:0 "TEMP"
+ PCA_liberalism_long:0 "TEMP"
+ PCA_conservatism_party:0 "TEMP"
+ PCA_conservatism_party_long:0 "TEMP"
+ PCA_authoritarian_democrat_party:0 "TEMP"
+ PCA_authoritarian_democrat_party_long:0 "TEMP"
+ PCA_despotism_type_party:0 "TEMP"
+ PCA_despotism_type_party_long:0 "TEMP"
+ PCA_reactionarism_party:0 "TEMP"
+ PCA_reactionarism_party_long:0 "TEMP"
+ PCA_national_populism_party:0 "TEMP"
+ PCA_national_populism_party_long:0 "TEMP"
+ PCA_ultranationalism_party:0 "TEMP"
+ PCA_ultranationalism_party_long:0 "TEMP"

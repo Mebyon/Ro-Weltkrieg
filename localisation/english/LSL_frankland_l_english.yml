@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ HRE:0 "Holy Empire of the Frankish Nation"
+ HRE_DEF:0 "Holy Roman Empire of the Frankish Nation"
+ HRE_ADJ:0 "Frank"
+
+### Parties ###
+ HRE_anarchism_type_party:0 "TEMP"
+ HRE_anarchism_type_party_long:0 "TEMP"
+ HRE_authoritarian_socialism_party:0 "TEMP"
+ HRE_authoritarian_socialism_long:0 "TEMP" 
+ HRE_popular_socialism_party:0 "TEMP"
+ HRE_popular_socialism_party_long:0 "TEMP" 
+ HRE_liberalism_party:0 "TEMP"
+ HRE_liberalism_long:0 "TEMP"
+ HRE_conservatism_party:0 "TEMP"
+ HRE_conservatism_party_long:0 "TEMP"
+ HRE_authoritarian_democrat_party:0 "Kernmange Remnants"
+ HRE_authoritarian_democrat_party_long:0 "Kernmange Remnants"
+ HRE_despotism_type_party:0 "Emergency Council"
+ HRE_despotism_type_party_long:0 "Emergency Council"
+ HRE_reactionarism_party:0 "Kydoimos Loyalists"
+ HRE_reactionarism_party_long:0 "Kydoimos Loyalists"
+ HRE_national_populism_party:0 "Kriegist Movement"
+ HRE_national_populism_party_long:0 "Kriegist Movement"
+ HRE_ultranationalism_party:0 "Kriegist Movement"
+ HRE_ultranationalism_party_long:0 "Kriegist Movement"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

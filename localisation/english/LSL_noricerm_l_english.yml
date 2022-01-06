@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ NRC:0 "Noricerm Realm"
+ NRC_DEF:0 "Noricerm Realm"
+ NRC_ADJ:0 "Noricers"
+
+### Parties ###
+ NRC_anarchism_type_party:0 "TEMP"
+ NRC_anarchism_type_party_long:0 "TEMP"
+ NRC_authoritarian_socialism_party:0 "TEMP"
+ NRC_authoritarian_socialism_long:0 "TEMP" 
+ NRC_popular_socialism_party:0 "TEMP"
+ NRC_popular_socialism_party_long:0 "TEMP" 
+ NRC_liberalism_party:0 "TEMP"
+ NRC_liberalism_long:0 "TEMP"
+ NRC_conservatism_party:0 "TEMP"
+ NRC_conservatism_party_long:0 "TEMP"
+ NRC_authoritarian_democrat_party:0 "TEMP"
+ NRC_authoritarian_democrat_party_long:0 "TEMP"
+ NRC_despotism_type_party:0 "TEMP"
+ NRC_despotism_type_party_long:0 "TEMP"
+ NRC_reactionarism_party:0 "TEMP"
+ NRC_reactionarism_party_long:0 "TEMP"
+ NRC_national_populism_party:0 "TEMP"
+ NRC_national_populism_party_long:0 "TEMP"
+ NRC_ultranationalism_party:0 "TEMP"
+ NRC_ultranationalism_party_long:0 "TEMP"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

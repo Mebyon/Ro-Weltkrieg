@@ -1,0 +1,114 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ HER:0 "Empire of Holy Rome"
+ HER_DEF:0 "Italy"
+ HER_ADJ:0 "Italian"
+ 
+ FSI:0 "Italian Republic"
+ FSI_DEF:0 "Italy"
+ FSI_ADJ:0 "Italian"
+ 
+ NIT:0 "Empire of New Rome"
+ NIT_DEF:0 "Italy"
+ NIT_ADJ:0 "Italian"
+ 
+ KEL:0 "Kingdom of Edelkara"
+ KEL_DEF:0 "Edelkara"
+ KEL_ADJ:0 "Edelkarian"
+
+### Parties ###
+ HER_anarchism_type_party:0 "TEMP"
+ HER_anarchism_type_party_long:0 "TEMP"
+ HER_authoritarian_socialism_party:0 "TEMP"
+ HER_authoritarian_socialism_long:0 "TEMP" 
+ HER_popular_socialism_party:0 "TEMP"
+ HER_popular_socialism_party_long:0 "TEMP" 
+ HER_liberalism_party:0 "TEMP"
+ HER_liberalism_long:0 "TEMP"
+ HER_conservatism_party:0 "TEMP"
+ HER_conservatism_party_long:0 "TEMP"
+ HER_authoritarian_democrat_party:0 "TEMP"
+ HER_authoritarian_democrat_party_long:0 "TEMP"
+ HER_despotism_type_party:0 "TEMP"
+ HER_despotism_type_party_long:0 "TEMP"
+ HER_reactionarism_party:0 "TEMP"
+ HER_reactionarism_party_long:0 "TEMP"
+ HER_national_populism_party:0 "TEMP"
+ HER_national_populism_party_long:0 "TEMP"
+ HER_ultranationalism_party:0 "TEMP"
+ HER_ultranationalism_party_long:0 "TEMP"
+ 
+ FSI_anarchism_type_party:0 "TEMP"
+ FSI_anarchism_type_party_long:0 "TEMP"
+ FSI_authoritarian_socialism_party:0 "TEMP"
+ FSI_authoritarian_socialism_long:0 "TEMP" 
+ FSI_popular_socialism_party:0 "TEMP"
+ FSI_popular_socialism_party_long:0 "TEMP" 
+ FSI_liberalism_party:0 "TEMP"
+ FSI_liberalism_long:0 "TEMP"
+ FSI_conservatism_party:0 "TEMP"
+ FSI_conservatism_party_long:0 "TEMP"
+ FSI_authoritarian_democrat_party:0 "TEMP"
+ FSI_authoritarian_democrat_party_long:0 "TEMP"
+ FSI_despotism_type_party:0 "TEMP"
+ FSI_despotism_type_party_long:0 "TEMP"
+ FSI_reactionarism_party:0 "TEMP"
+ FSI_reactionarism_party_long:0 "TEMP"
+ FSI_national_populism_party:0 "TEMP"
+ FSI_national_populism_party_long:0 "TEMP"
+ FSI_ultranationalism_party:0 "TEMP"
+ FSI_ultranationalism_party_long:0 "TEMP"
+ 
+ NIT_anarchism_type_party:0 "TEMP"
+ NIT_anarchism_type_party_long:0 "TEMP"
+ NIT_authoritarian_socialism_party:0 "TEMP"
+ NIT_authoritarian_socialism_long:0 "TEMP" 
+ NIT_popular_socialism_party:0 "TEMP"
+ NIT_popular_socialism_party_long:0 "TEMP" 
+ NIT_liberalism_party:0 "TEMP"
+ NIT_liberalism_long:0 "TEMP"
+ NIT_conservatism_party:0 "TEMP"
+ NIT_conservatism_party_long:0 "TEMP"
+ NIT_authoritarian_democrat_party:0 "TEMP"
+ NIT_authoritarian_democrat_party_long:0 "TEMP"
+ NIT_despotism_type_party:0 "TEMP"
+ NIT_despotism_type_party_long:0 "TEMP"
+ NIT_reactionarism_party:0 "TEMP"
+ NIT_reactionarism_party_long:0 "TEMP"
+ NIT_national_populism_party:0 "TEMP"
+ NIT_national_populism_party_long:0 "TEMP"
+ NIT_ultranationalism_party:0 "TEMP"
+ NIT_ultranationalism_party_long:0 "TEMP"
+ 
+ KEL_anarchism_type_party:0 "TEMP"
+ KEL_anarchism_type_party_long:0 "TEMP"
+ KEL_authoritarian_socialism_party:0 "TEMP"
+ KEL_authoritarian_socialism_long:0 "TEMP" 
+ KEL_popular_socialism_party:0 "TEMP"
+ KEL_popular_socialism_party_long:0 "TEMP" 
+ KEL_liberalism_party:0 "TEMP"
+ KEL_liberalism_long:0 "TEMP"
+ KEL_conservatism_party:0 "TEMP"
+ KEL_conservatism_party_long:0 "TEMP"
+ KEL_authoritarian_democrat_party:0 "TEMP"
+ KEL_authoritarian_democrat_party_long:0 "TEMP"
+ KEL_despotism_type_party:0 "TEMP"
+ KEL_despotism_type_party_long:0 "TEMP"
+ KEL_reactionarism_party:0 "TEMP"
+ KEL_reactionarism_party_long:0 "TEMP"
+ KEL_national_populism_party:0 "TEMP"
+ KEL_national_populism_party_long:0 "TEMP"
+ KEL_ultranationalism_party:0 "TEMP"
+ KEL_ultranationalism_party_long:0 "TEMP"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ FUK:0 "United Kingdom"
+ FUK_DEF:0 "the United Kingdom of Great Britian and Ireland"
+ FUK_ADJ:0 "British"
+
+### Parties ###
+ FUK_anarchism_type_party:0 "People's Union of Britain"
+ FUK_anarchism_type_party_long:0 "People's Union of Britain"
+ FUK_authoritarian_socialism_party:0 "CPGB"
+ FUK_authoritarian_socialism_long:0 "Communist Party of Great Britain"
+ FUK_popular_socialism_party:0 "The Labour Party"
+ FUK_popular_socialism_party_long:0 "The Labour Party"
+ FUK_liberalism_party:0 "The Liberal Party"
+ FUK_liberalism_long:0 "The Liberal Party"
+ FUK_conservatism_party:0 "The Tories"
+ FUK_conservatism_party_long:0 "Conservative and Unionist Party"
+ FUK_authoritarian_democrat_party:0 "The Royal House"
+ FUK_authoritarian_democrat_party_long:0 "The House of Saxe-Coburg and Gotha"
+ FUK_despotism_type_party:0 "His Majesty's Armed Forces"
+ FUK_despotism_type_party_long:0 "His Majesty's Armed Forces"
+ FUK_reactionarism_party:0 "The National Front"
+ FUK_reactionarism_party_long:0 "The National Front"
+ FUK_national_populism_party:0 "The League of Imperial Loyalists"
+ FUK_national_populism_party_long:0 "The League of Imperial Loyalists"
+ FUK_ultranationalism_party:0 "TBFC"
+ FUK_ultranationalism_party_long:0 "The British Free Corps"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 
