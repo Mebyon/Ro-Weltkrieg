@@ -45,16 +45,16 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	totalist = 0
-	radical_socialist = 0
-	syndicalist = 0
-	social_democrat = 0
-	social_liberal = 0
-	market_liberal = 0
-	social_conservative = 10
-	authoritarian_democrat = 10
-	paternal_autocrat = 60
-	national_populist = 20
+	anarchism_type = 0
+	authoritarian_socialism = 0
+	popular_socialism = 0
+	liberalism = 0
+	conservatism = 10
+	authoritarian_democrat = 66
+	despotism_type = 14
+	reactionarism = 0
+	national_populism = 5
+	ultranationalism = 5
 }
 
 create_country_leader = {
@@ -62,7 +62,7 @@ create_country_leader = {
 	desc = ""
 	picture = "RokkviFettDietrich.dds"
 	expire = "1942.1.1"
-	ideology = authoritarian_democrat_subtype
+	ideology = authoritarian_democrat_subtype 
 	traits = {
 		#
 	}

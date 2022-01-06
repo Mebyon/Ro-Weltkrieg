@@ -1,4 +1,4 @@
-﻿capital = 7
+﻿﻿capital = 7
 
 oob = "HOL_1936"
 if = {
@@ -97,16 +97,16 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-	totalist = 0
-	radical_socialist = 1
-	syndicalist = 0
-	social_democrat = 0
-	social_liberal = 2
-	market_liberal = 8
-	social_conservative = 18
+	anarchism_type = 0
+	authoritarian_socialism = 0
+	popular_socialism = 1
+	liberalism = 2
+	conservatism = 20
 	authoritarian_democrat = 36
-	paternal_autocrat = 5
-	national_populist = 30
+	despotism_type = 5
+	reactionarism = 0
+	national_populism = 30
+	ultranationalism = 6
 }
 
 set_convoys = 150
@@ -117,7 +117,7 @@ create_country_leader = {
 	desc = "EMANUEL_DESC"
 	picture = "emanuel_re.dds"
 	expire = "1965.1.1"
-	ideology = authoritarian_democrat_subtype
+	ideology = constitutional_monarchy
 	traits = {
 		carantanian_patriarch
 	}
@@ -128,7 +128,7 @@ create_country_leader = {
 	desc = ""
 	picture = "Philosopheme.dds"
 	expire = "1965.1.1"
-	ideology = social_conservative_subtype
+	ideology = ultranationalist 
 	traits = {
 		#
 	}
@@ -139,7 +139,7 @@ create_country_leader = {
 	desc = ""
 	picture = "ezerikeheftig.dds"
 	expire = "1965.1.1"
-	ideology = social_democrat_subtype
+	ideology = national_conservatism 
 	traits = {
 		#
 	}
@@ -150,7 +150,7 @@ create_country_leader = {
 	desc = ""
 	picture = "cadorkenverindrip_re.dds"
 	expire = "1965.1.1"
-	ideology = paternal_autocrat_subtype
+	ideology = military_junta 
 	traits = {
 		#
 	}
@@ -161,7 +161,7 @@ create_country_leader = {
 	desc = ""
 	picture = "jamesalbannach.dds"
 	expire = "1965.1.1"
-	ideology = national_populist_subtype
+	ideology = autism 
 	traits = {
 		#
 	}
@@ -172,7 +172,7 @@ create_country_leader = {
 	desc = ""
 	picture = "AlbertEberling.dds"
 	expire = "1965.1.1"
-	ideology = radical_socialist_subtype
+	ideology = syndicalism 
 	traits = {
 		#
 	}
@@ -183,7 +183,7 @@ create_country_leader = {
 	desc = ""
 	picture = "drip_generic.dds"
 	expire = "1965.1.1"
-	ideology = market_liberal_subtype
+	ideology = social_liberal 
 	traits = {
 		#
 	}

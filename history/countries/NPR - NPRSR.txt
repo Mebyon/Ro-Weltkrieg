@@ -40,22 +40,22 @@ if = {
 set_convoys = 200
 
 set_politics = {
-	ruling_party = radical_socialist
+	ruling_party = popular_socialism
 	last_election = "never"
 	election_frequency = 36
 	elections_allowed = no
 }
 set_popularities = {
-	totalist = 8
-	radical_socialist = 62
-	syndicalist = 0
-	social_democrat = 0
-	social_liberal = 0
-	market_liberal = 0
-	social_conservative = 9
-	authoritarian_democrat = 5
-	paternal_autocrat = 0
-	national_populist = 16
+	anarchism_type = 0
+	authoritarian_socialism = 15
+	popular_socialism = 70
+	liberalism = 9
+	conservatism = 5
+	authoritarian_democrat = 0
+	despotism_type = 0
+	reactionarism = 0
+	national_populism = 0
+	ultranationalism = 1
 
 #neutrality = 100
 }
@@ -63,9 +63,9 @@ set_popularities = {
 create_country_leader = {
 	name = "Zofiel Kagiellon"
 	desc = ""
-	picture = "bacon_generic.dds"
+	picture = "zofiel.dds"
 	expire = "1949.1.1"
-	ideology = radical_socialist_subtype
+	ideology = council_communism 
 	traits = {
 		#
 	}

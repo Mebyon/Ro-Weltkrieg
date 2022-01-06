@@ -1,0 +1,429 @@
+﻿capital = 282
+
+oob = "JAP_1936"
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		basic_naval_mines = 1
+		submarine_mine_laying = 1
+		basic_torpedo = 1
+		basic_battery = 1
+		basic_light_battery = 1
+		basic_heavy_battery = 1
+		basic_medium_battery = 1
+		improved_ship_torpedo_launcher = 1
+		early_ship_hull_submarine = 1
+		basic_ship_hull_submarine = 1
+		early_ship_hull_light = 1
+		early_ship_hull_cruiser = 1
+		basic_ship_hull_cruiser = 1
+		early_ship_hull_heavy = 1
+		basic_ship_hull_heavy = 1
+		early_ship_hull_carrier = 1
+		basic_ship_hull_carrier = 1
+		mtg_transport = 1
+		coastal_defense_ships = 1
+		basic_secondary_battery = 1
+		basic_depth_charges = 1
+		basic_cruiser_armor_scheme = 1
+		cruiser_submarines = 1
+	}
+	set_naval_oob = "JAP_1936_naval"
+}
+if = {
+	limit = { not = { has_dlc = "Man the Guns" } }
+	set_technology = {
+		early_submarine = 1
+		basic_submarine = 1
+		early_destroyer = 1
+		early_light_cruiser = 1
+		basic_light_cruiser = 1
+		early_heavy_cruiser = 1
+		basic_heavy_cruiser = 1
+		early_battleship = 1
+		basic_battleship = 1
+		early_battlecruiser = 1
+		early_carrier = 1
+		basic_carrier = 1
+		transport = 1
+	}
+	set_naval_oob = "JAP_1936_naval_legacy"
+}
+
+set_research_slots = 4
+
+add_ideas = {
+	remnants_of_the_old_community
+	growing_factionalism
+	loss_of_korea
+#	isles_in_isolation
+	self_sufficiency
+	JAP_daivietnam
+	JAP_Kijiro_Nambu
+	JAP_Nagato_Rose
+	JAP_Imperial_Steel
+	JAP_Hideo_Nakagawa
+}
+
+set_stability = 0.5
+set_war_support = 0.7
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	tech_support = 1		
+	tech_engineers = 1
+	early_fighter = 1
+	early_bomber = 1
+	tech_recon = 1
+}
+
+
+set_convoys = 400
+
+if = {
+	limit = {
+		OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_autonomy = {
+		target = DVN
+		autonomous_state = autonomy_wtt_imperial_protectorate
+	}
+	#else = {
+	#	puppet = DVN
+	#}
+}
+	
+set_politics = {
+	ruling_party = ultranationalism
+	last_election = "1933.10.16"
+	election_frequency = 36
+	elections_allowed = yes
+}
+
+set_popularities = {
+	anarchism_type = 0
+	authoritarian_socialism = 0
+	popular_socialism = 0
+	liberalism = 0
+	conservatism = 5
+	authoritarian_democrat = 29
+	despotism_type = 32
+	reactionarism = 1
+	national_populism = 0
+	ultranationalism = 33
+}
+
+create_country_leader = {
+	name = "Papa Hokkaido"
+	desc = "FELIX_DESC"
+	picture = "PapaHokkaido_Showa.dds"
+	expire = "1965.1.1"
+	ideology = ultranationalist
+	traits = {
+		memer
+	}
+}
+
+create_country_leader = {
+	name = "murnau"
+	desc = "MURNAU_DESC"
+	picture = "murnau.dds"
+	expire = "1965.1.1"
+	ideology = authoritarian_democrat_type
+	traits = {
+		the_great_architect
+		fourteen_yo_mentality
+	}
+}
+
+create_country_leader = {
+	name = "Togo Heihachiro"
+	desc = "BRUSH_DESC"
+	picture = "TogoHeihachiro_2.dds"
+	expire = "1965.1.1"
+	ideology = military_junta
+	traits = {
+		the_janny
+	}
+}
+
+#create_country_leader = {
+#	name = "BasedOnReality"
+#	desc = ""
+#	picture = "01_basedonreality.dds"
+#	expire = "1965.1.1"
+#	ideology = autocrat
+#	traits = {
+#		isolationist
+#	}
+#}
+
+
+################################
+create_field_marshal = {
+	name = "Togo Heihachiro"
+	portrait_path = "gfx/leaders/IJA/TogoHeihachiro.dds"
+	traits = { old_guard harsh_leader skilled_staffer }
+	skill = 4
+	attack_skill = 3
+	defense_skill = 4
+	planning_skill = 2
+	logistics_skill = 3
+}
+
+create_field_marshal = {
+	name = "Todo Takatora"
+	portrait_path = "gfx/leaders/IJA/Todo_Takatora.dds"
+	traits = { old_guard war_hero brilliant_strategist }
+	skill = 3
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 3
+	logistics_skill = 2
+}
+
+create_corps_commander = {
+	name = "Kenji Doihara"
+	portrait_path = "gfx/leaders/IJA/KenjiDoihara.dds"
+	traits = {  trickster old_guard armor_officer inflexible_strategist }
+	skill = 4
+	attack_skill = 4
+	defense_skill = 4
+	planning_skill = 2
+	logistics_skill = 3
+}
+create_corps_commander = {
+	name = "WeirdIDIOTMAN"
+	portrait_path = "gfx/leaders/IJA/WeirdIDIOTMAN.dds"
+	traits = {  trickster trait_reckless  }
+	skill = 4
+	attack_skill = 4
+	defense_skill = 3
+	planning_skill = 2
+	logistics_skill = 4
+}
+create_corps_commander = {
+	name = "Justin Chap"
+	portrait_path = "gfx/leaders/IJA/Justin_Chap.dds"
+	traits = {  trickster  }
+	skill = 4
+	attack_skill = 4
+	defense_skill = 2
+	planning_skill = 3
+	logistics_skill = 3
+}
+create_corps_commander = {
+	name = "Hokosha Riana"
+	portrait_path = "gfx/leaders/IJA/Hokosha_Riana.dds"
+	traits = { old_guard infantry_officer infantry_leader }
+	skill = 4
+	attack_skill = 3
+	defense_skill = 4
+	planning_skill = 3
+	logistics_skill = 2
+}
+create_corps_commander = {
+	name = "Gavbond"
+	portrait_path = "gfx/leaders/IJA/Gavbond.dds"
+	traits = { infantry_officer }
+	skill = 4
+	attack_skill = 3
+	defense_skill = 3
+	planning_skill = 3
+	logistics_skill = 4
+}
+create_corps_commander = {
+	name = "KeenOnBread"
+	portrait_path = "gfx/leaders/IJA/KeenOnBread.dds"
+	traits = { career_officer }
+	skill = 3
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 3
+}
+create_corps_commander = {
+	name = "5ive7even"
+	portrait_path = "gfx/leaders/IJA/5ive7even.dds"
+	traits = { war_hero }
+	skill = 3
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 2
+}
+create_corps_commander = {
+	name = "Minoru Genda"
+	portrait_path = "gfx/leaders/IJA/MinoruGenda.dds"
+	traits = { armor_officer }
+	skill = 3
+	attack_skill = 3
+	defense_skill = 3
+	planning_skill = 2
+	logistics_skill = 3
+}
+create_corps_commander = {
+	name = "PokemonFan365"
+	portrait_path = "gfx/leaders/IJA/PokemonFan365.dds"
+	traits = {   }
+	skill = 3
+	attack_skill = 3
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 2
+}
+create_corps_commander = {
+	name = "AstraCPU"
+	portrait_path = "gfx/leaders/IJA/AstraCPU.dds"
+	traits = { infantry_officer }
+	skill = 3
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 1
+}
+create_corps_commander = {
+	name = "Kijiro Nambu"
+	portrait_path = "gfx/leaders/IJA/KijiroNambu.dds"
+	traits = { infantry_officer }
+	skill = 2
+	attack_skill = 3
+	defense_skill = 2
+	planning_skill = 1
+	logistics_skill = 2
+}
+create_corps_commander = {
+	name = "Cyberknightcoc"
+	portrait_path = "gfx/leaders/IJA/Cyberknightcoc.dds"
+	traits = {   }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 2
+}
+create_corps_commander = {
+	name = "Sakae Oba"
+	portrait_path = "gfx/leaders/IJA/SakaeOba.dds"
+	traits = {    }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 1
+	planning_skill = 2
+	logistics_skill = 2
+}
+create_corps_commander = {
+	name = "Katatsumurii"
+	portrait_path = "gfx/leaders/IJA/Katatsumurii.dds"
+	traits = { cavalry_officer }
+	skill = 2
+	attack_skill = 1
+	defense_skill = 2
+	planning_skill = 2
+	logistics_skill = 1
+}
+create_corps_commander = {
+	name = "Yasuhito Chichibu"
+	portrait_path = "gfx/leaders/IJA/YasuhitoChichibu.dds"
+	traits = {   }
+	skill = 1
+	attack_skill = 2
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+create_corps_commander = {
+	name = "nutella5689"
+	portrait_path = "gfx/leaders/IJA/nutella5689.dds"
+	traits = {   }
+	skill = 1
+	attack_skill = 1
+	defense_skill = 1
+	planning_skill = 1
+	logistics_skill = 1
+}
+
+#############################################################
+
+create_navy_leader = {
+	name = "rodom12"
+	portrait_path = "gfx/leaders/IJA/rodom12.dds"
+	traits = { navy_career_officer navy_media_personality bold }
+	skill = 4
+	attack_skill = 4
+	defense_skill = 4
+	maneuvering_skill = 3
+	coordination_skill = 2
+}
+
+create_navy_leader = {
+	name = "kisaragi_san"
+	portrait_path = "gfx/leaders/IJA/kisaragi_san.dds"
+	traits = { naval_lineage old_guard_navy }
+	skill = 4
+	attack_skill = 3
+	defense_skill = 4
+	maneuvering_skill = 3
+	coordination_skill = 3
+}
+
+create_navy_leader = {
+	name = "111111310"
+	portrait_path = "gfx/leaders/IJA/111111310.dds"
+	traits = { chief_engineer }
+	skill = 4
+	attack_skill = 3
+	defense_skill = 3
+	maneuvering_skill = 4
+	coordination_skill = 4
+}
+
+create_navy_leader = {
+	name = "Genoveva Valdemar"
+	portrait_path = "gfx/leaders/IJA/GenovevaValdemar.dds"
+	traits = { aviation_enthusiast }
+	skill = 3
+	attack_skill = 3
+	defense_skill = 2
+	maneuvering_skill = 3
+	coordination_skill = 2
+}
+
+create_navy_leader = {
+	name = "Nakadashi Daisuki"
+	portrait_path = "gfx/leaders/IJA/navy_generic.dds"
+	traits = {  }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+	maneuvering_skill = 2
+	coordination_skill = 1
+}
+
+create_navy_leader = {
+	name = "fopper"
+	portrait_path = "gfx/leaders/IJA/fopper.dds"
+	traits = { navy_career_officer  }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 1
+	maneuvering_skill = 1
+	coordination_skill = 2
+}
+create_navy_leader = {
+	name = "proximation"
+	portrait_path = "gfx/leaders/IJA/proximation.dds"
+	traits = {  }
+	skill = 2
+	attack_skill = 2
+	defense_skill = 2
+	maneuvering_skill = 2
+	coordination_skill = 1
+}

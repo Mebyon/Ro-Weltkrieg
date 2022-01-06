@@ -63,16 +63,16 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	totalist = 1
-	radical_socialist = 3
-	syndicalist = 2
-	social_democrat = 22
-	social_liberal = 6
-	market_liberal = 3
-	social_conservative = 12
-	authoritarian_democrat = 42
-	paternal_autocrat = 7
-	national_populist = 2
+	anarchism_type = 0
+	authoritarian_socialism = 0
+	popular_socialism = 1
+	liberalism = 1
+	conservatism = 9
+	authoritarian_democrat = 87
+	despotism_type = 0
+	reactionarism = 1
+	national_populism = 0
+	ultranationalism = 1
 
 #neutrality = 100
 }
@@ -82,7 +82,7 @@ create_country_leader = {
 	desc = "kill your investors"
 	picture = "lothair.dds"
 	expire = "1942.1.1"
-	ideology = authoritarian_democrat_subtype
+	ideology = constitutional_monarchy
 	traits = {
 		#
 	}
@@ -93,45 +93,11 @@ create_country_leader = {
 	desc = "brap"
 	picture = "waltherkoppenhausen.dds"
 	expire = "1960.1.1"
-	ideology = paternal_autocrat_subtype
+	ideology = authoritarian_democrat
 	traits = {
 		#
 	}
 }
-
-#
-#create_country_leader = {
-#	name = "Vidkun Quisling"
-#	desc = "POLITICS_VIDKUN_QUISLING_DESC"
-#	picture = "Portrait_Norway_Vidkun_Quisling.dds"
-#	expire = "1965.1.1"
-#	ideology = nazism
-#	traits = {
-#		#
-#	}
-#}
-#
-#create_country_leader = {
-#	name = "Johan Ludwig Mowinckel"
-#	desc = "POLITICS_JOHAN_LUDWIG_MOWINCKEL_DESC"
-#	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
-#	expire = "1965.1.1"
-#	ideology = centrism
-#	traits = {
-#		#
-#	}
-#}
-#
-#create_country_leader = {
-#	name = "Adam Egede-Nissen"
-#	desc = "POLITICS_ADAM_EGEDE_NISSEN_DESC"
-#	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
-#	expire = "1965.1.1"
-#	ideology = marxism
-#	traits = {
-#		#
-#	}
-#}
 
 create_field_marshal = {
 	name = "Glaeden Koppenhausen"
@@ -250,7 +216,7 @@ create_corps_commander = {
 
 create_navy_leader = {
 	name = "Elias Corneliussen"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
+	portrait_path = "gfx/leaders/Generic/navygeneric_2.dds"
 	traits = { navy_career_officer inshore_fighter spotter }
 	skill = 3
 	attack_skill = 2

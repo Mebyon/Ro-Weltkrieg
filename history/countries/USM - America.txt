@@ -1,6 +1,6 @@
-﻿capital = 393
+﻿capital = 386
 
-#oob = "USA_1936"
+oob = "USA_1936"
 #if = {
 #	limit = { has_dlc = "Man the Guns" }
 #		set_naval_oob = "USA_1936_naval_mtg"
@@ -10,8 +10,8 @@
 #}
 
 set_research_slots = 4
-set_stability = 0.75
-set_war_support = 0.1
+set_stability = 0.55
+set_war_support = 0.3
 
 # Starting tech
 set_technology = {
@@ -91,23 +91,23 @@ set_convoys = 500
 
 
 set_politics = {
-	ruling_party = paternal_autocrat
+	ruling_party = despotism_type
 	last_election = "1932.11.8"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 set_popularities = {
-	totalist = 0
-	radical_socialist = 0
-	syndicalist = 0
-	social_democrat = 3
-	social_liberal = 14
-	market_liberal = 10
-	social_conservative = 35
-	authoritarian_democrat = 22
-	paternal_autocrat = 15
-	national_populist = 1
+	anarchism_type = 0
+	authoritarian_socialism = 0
+	popular_socialism = 0
+	liberalism = 17
+	conservatism = 45
+	authoritarian_democrat = 10
+	despotism_type = 17
+	reactionarism = 0
+	national_populism = 0
+	ultranationalism = 11
 }
 
 add_ideas = {
@@ -125,7 +125,7 @@ create_country_leader = {
 	desc = ""
 	picture = "abienno_fernandez.dds"
 	expire = "1936.3.3"
-	ideology = paternal_autocrat_subtype
+	ideology = autocrat 
 	traits = {
 		
 	}
@@ -136,7 +136,7 @@ create_country_leader = {
 	desc = ""
 	picture = ""
 	expire = "1948.1.1"
-	ideology = authoritarian_democrat_subtype
+	ideology = liberal_conservatism  
 	traits = {
 		
 	}
@@ -147,11 +147,22 @@ create_country_leader = {
 	desc = ""
 	picture = ""
 	expire = "1944.1.1"
-	ideology = social_conservative_subtype
+	ideology = national_conservatism 
 	traits = {
 		
 	}
 }
+
+#create_country_leader = {
+#	name = "Erich Model"
+#	desc = ""
+#	picture = ""
+#	expire = "1944.1.1"
+#	ideology = social_conservatism 
+#	traits = {
+#		
+#	}
+#}
 
 
 #####################################

@@ -45,16 +45,16 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	totalist = 0
-	radical_socialist = 0
-	syndicalist = 0
-	social_democrat = 0
-	social_liberal = 0
-	market_liberal = 1
-	social_conservative = 6
-	authoritarian_democrat = 10
-	paternal_autocrat = 79
-	national_populist = 4
+	anarchism_subtype = 0
+	authoritarian_socialism = 0
+	popular_socialism = 0
+	liberalism = 0
+	conservatism = 7
+	authoritarian_democrat = 88
+	despotism_type = 1
+	reactionarism = 0
+	national_populism = 4
+	ultranationalism = 0
 
 #neutrality = 100
 }
@@ -64,7 +64,7 @@ create_country_leader = {
 	desc = ""
 	picture = "bacon_generic.dds"
 	expire = "1945.1.1"
-	ideology = authoritarian_democrat_subtype
+	ideology = authoritarian_democrat 
 	traits = {
 		#
 	}
