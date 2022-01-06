@@ -1,0 +1,170 @@
+ideas = {
+	head_of_government = {
+		JAP_daivietnam = {
+			picture = JAP_daivietnam
+			allowed = { original_tag = IJA }
+			cancel_if_invalid = no
+			traits = {
+				the_buffalo
+				dev_overseer
+			}
+		}
+		
+		JAP_JACKALACK1722 = {
+			picture = JAP_JACKALACK1722
+			allowed = { original_tag = IJA }
+			cancel_if_invalid = no
+			traits = {
+				warrior_code
+			}
+		}
+		
+		JAP_jack_rockwell = {
+			picture = JAP_jack_rockwell
+			allowed = { original_tag = IJA }
+			cancel_if_invalid = no
+			traits = {
+				liberal_journalist
+			}
+		}
+		
+	}
+	
+	economy_minister = { #EconomyMinister
+		JAP_Nagato_Rose = {
+			picture = JAP_Nagato_Rose
+			allowed = { original_tag = IJA }
+			cancel_if_invalid = no
+			traits = {
+				urbanist
+				entrepreneur
+			}
+		}
+		
+		JAP_generic_economy_minister = {
+			picture = JAP_generic_economy_minister
+			allowed = { original_tag = IJA }
+			cancel_if_invalid = no
+			traits = {
+				generic_trait
+			}
+		}
+		
+		JAP_generic_economy_minister2 = {
+			picture = JAP_generic_economy_minister2
+			allowed = { original_tag = IJA }
+			cancel_if_invalid = no
+			traits = {
+				generic_trait
+			}
+		}
+	}
+	
+	foreign_minister = { #ForeignMinister
+		JAP_Kijiro_Nambu = {
+			picture = JAP_Kijiro_Nambu 
+			allowed = { original_tag = IJA }
+			cancel_if_invalid = no
+			traits = {
+				staunch_revanchist
+				casual_racist
+			}
+		}
+		
+		JAP_generic_foreign_minister = {
+			picture = JAP_generic_foreign_minister2
+			allowed = { original_tag = IJA }
+			cancel_if_invalid = no
+			traits = {
+				generic_trait
+			}
+		}
+		
+		JAP_generic_foreign_minister2 = {
+			picture = JAP_generic_foreign_minister2
+			allowed = { original_tag = IJA }
+			cancel_if_invalid = no
+			traits = {
+				generic_trait
+			}
+		}
+	}
+	
+	security_minister = { #InteriorMinister
+		JAP_Imperial_Steel = {
+			picture = JAP_Imperial_Steel
+			allowed = { original_tag = IJA }
+			cancel_if_invalid = no
+			traits = {
+				dreadful
+				backdoor_exploiter
+			}
+		}
+		
+		JAP_generic_interior_minister = {
+			picture = JAP_generic_interior_minister
+			allowed = { original_tag = IJA }
+			cancel_if_invalid = no
+			traits = {
+				generic_trait
+			}
+		}
+		
+		JAP_generic_interior_minister2 = {
+			picture = JAP_generic_interior_minister2
+			allowed = { original_tag = IJA }
+			cancel_if_invalid = no
+			traits = {
+				generic_trait
+			}
+		}
+	}
+	
+	advisor = {
+		JAP_Hideo_Nakagawa = {
+			picture = JAP_Hideo_Nakagawa
+			allowed = { original_tag = IJA }
+			cancel_if_invalid = no
+			traits = {
+				the_secretary
+			}
+		}
+		
+		JAP_makerplace101 = {
+			picture = JAP_makerplace101
+			allowed = { original_tag = IJA }
+			cancel_if_invalid = no
+			traits = {
+				generic_trait
+			}
+		}
+		
+		JAP_1989ubermensch = {
+			picture = JAP_1989ubermensch
+			allowed = { original_tag = IJA }
+			cancel_if_invalid = no
+			traits = {
+				generic_trait
+			}
+		}
+	}
+	
+	########################
+	
+	chief_of_staff = {
+		
+	}
+	chief_of_army = {
+		
+	}
+	chief_of_navy = {
+		
+	}
+	chief_of_air_force = {
+		
+	}
+	theorist = {
+		
+	}
+	
+}

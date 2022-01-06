@@ -1,0 +1,134 @@
+ideas = {
+
+	country = {
+	
+		remnants_of_the_old_community = {
+			picture = 
+			
+			allowed = {
+				tag = IJA
+			}
+			
+			available = {
+			}
+			
+			cancel = {
+			}
+	
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+		
+			modifier = {
+				experience_gain_factor = -0.1
+			}
+		}
+		
+		growing_factionalism = {
+			picture = 
+			
+			allowed = {
+				tag = IJA
+			}
+			
+			available = {
+			}
+			
+			cancel = {
+			}
+	
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+		
+			modifier = {
+				political_advisor_cost_factor = 0.25
+				economy_cost_factor = 0.25
+				mobilization_laws_cost_factor = 0.25
+				high_command_cost_factor = 0.5
+				promote_cost_factor = 0.5
+				reassignment_duration_factor = 0.5
+				command_power_gain = -0.5
+			}
+		}
+		
+		loss_of_korea = {
+			picture = 
+			
+			allowed = {
+				tag = IJA
+			}
+			
+			available = {
+			}
+			
+			cancel = {
+			}
+	
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+		
+			modifier = {
+				war_support_weekly_factor = 0.05
+			}
+		}
+		isles_in_isolation = {
+			picture = 
+			
+			allowed = {
+				tag = IJA
+			}
+			
+			available = {
+			}
+			
+			cancel = {
+			}
+	
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+		
+			modifier = {
+				guarantee_cost = 0.5
+				opinion_gain_monthly_factor	= -0.25
+			}
+		}
+		self_sufficiency = {
+			picture = 
+			
+			allowed = {
+				tag = IJA
+			}
+			
+			available = {
+			}
+			
+			cancel = {
+			}
+	
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+		
+			modifier = {
+				research_speed_factor = 0.25
+				local_resources_factor = 0.25
+				production_lack_of_resource_penalty_factor = -0.25
+				consumer_goods_factor = 0.15
+			}
+		}
+		
+	}
+}
