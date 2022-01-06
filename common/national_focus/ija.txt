@@ -1,0 +1,247 @@
+focus_tree = {
+	id = ija-focus
+	continuous_focus_position = { x = 0 y = 1000 } 
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = IJA
+		}
+	}
+	#The Empire Strikes Back
+	focus = {
+		id = IJA_the_empire_strikes_back
+		icon = GFX_IJA_the_empire_strikes_back-445
+		x = 2
+		y = 0
+		cost = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		completion_reward = {
+			#war_support_factor = 0.1
+			custom_effect_tooltip = "IJA_TOOLTIP_10"
+			activate_decision = ija_reconquest_of_korea
+		}
+	}
+
+	#Just like in 1876
+	focus = {
+		id = IJA_just_like_in_1876
+		icon = GFX_IJA_just_like_in_1876-445
+		x = 2
+		y = 1
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = IJA_the_empire_strikes_back  }
+	}
+
+	#Gyeongsul No More
+	focus = {
+		id = IJA_gyeongsul_no_more
+		icon = GFX_IJA_gyeongsul_no_more-445
+		x = 2
+		y = 2
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = IJA_just_like_in_1876  }
+	}
+
+	#Bit Late Innit Mr. Fengtian?
+	focus = {
+		id = IJA_bitlateinnitmrfengtian
+		icon = GFX_IJA_bitlateinnitmrfengtian-445
+		x = 8
+		y = 0
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+	}
+
+	#As the rising sun melts thinly frozen ice...
+	focus = {
+		id = IJA_astherisingsunmeltsthinlyfrozenice
+		icon = GFX_IJA_astherisingsunmeltsthinlyfrozenice-445
+		x = 8
+		y = 1
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = IJA_bitlateinnitmrfengtian  }
+	}
+
+	#What's your number Puyi-chan~
+	focus = {
+		id = IJA_whatsyournumberpuyichan
+		icon = GFX_IJA_whatsyournumberpuyichan-445
+		x = 5
+		y = 2
+		cost = 2
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = IJA_astherisingsunmeltsthinlyfrozenice  }
+		mutually_exclusive = { focus = IJA_a_forceful_annexation_should_do_the_job }
+	}
+
+	#A Forceful Annexation Should Do The Job
+	focus = {
+		id = IJA_a_forceful_annexation_should_do_the_job
+		icon = GFX_IJA_a_forceful_annexation_should_do_the_job-445
+		x = 11
+		y = 2
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = IJA_astherisingsunmeltsthinlyfrozenice  }
+		mutually_exclusive = { focus = IJA_whatsyournumberpuyichan  }
+	}
+
+	#Tanggu Truce? Silly Nerds
+	focus = {
+		id = IJA_tanggutrucesillynerds
+		icon = GFX_IJA_tanggutrucesillynerds-445
+		x = 11
+		y = 3
+		cost = 4
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = IJA_a_forceful_annexation_should_do_the_job  }
+	}
+
+	#Kwantung Loyalty
+	focus = {
+		id = IJA_kwantung_loyalty
+		icon = GFX_IJA_kwantung_loyalty-445
+		x = 6
+		y = 3
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = IJA_whatsyournumberpuyichan  }
+	}
+
+	#We're not sorry Dr. Sun
+	focus = {
+		id = IJA_werenotsorrydrsun
+		icon = GFX_IJA_werenotsorrydrsun-445
+		x = 4
+		y = 3
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = IJA_whatsyournumberpuyichan  }
+		
+		completion_reward = {
+			country_event = ija.2
+		}
+	}
+
+	#The Southern Expedition
+	focus = {
+		id = IJA_the_southern_expedition
+		icon = GFX_IJA_the_southern_expedition-445
+		x = 8
+		y = 4
+		cost = 4
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = IJA_tanggutrucesillynerds  focus = IJA_kwantung_loyalty  }
+	}
+
+	#The Indochinese Gambit
+	focus = {
+		id = IJA_the_indochinese_gambit
+		icon = GFX_IJA_the_indochinese_gambit-445
+		x = 8
+		y = 5
+		cost = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = IJA_the_southern_expedition  }
+	}
+
+	#Kuril IS Dai Nippon
+	focus = {
+		id = IJA_kuril_is_dai_nippon
+		icon = GFX_IJA_kuril_is_dai_nippon-445
+		x = 10
+		y = 4
+		cost = 2
+		search_filters = {
+			FOCUS_FILTER_WAR_SUPPORT
+		}
+		prerequisite = { focus = IJA_tanggutrucesillynerds  }
+	}
+
+	#The Mongolian Gambit
+	focus = {
+		id = IJA_the_mongolian_gambit
+		icon = GFX_IJA_the_mongolian_gambit-445
+		x = 11
+		y = 5
+		cost = 2
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = IJA_kuril_is_dai_nippon  } prerequisite = { focus = IJA_start_a_fuss_with_the_bear  }
+	}
+
+	#What's a Mudken?
+	focus = {
+		id = IJA_whatsamudken
+		icon = GFX_IJA_whatsamudken-445
+		x = 5
+		y = 4
+		cost = 4
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = IJA_werenotsorrydrsun  }
+		prerequisite = { focus = IJA_kwantung_loyalty  }
+	}
+
+	#The Sino Gambit
+	focus = {
+		id = IJA_the_sino_gambit
+		icon = GFX_IJA_the_sino_gambit-445
+		x = 5
+		y = 5
+		cost = 4
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = IJA_whatsamudken  } prerequisite = { focus = IJA_the_southern_expedition  }
+	}
+
+	#Start a Fuss with the Bear
+	focus = {
+		id = IJA_start_a_fuss_with_the_bear
+		icon = GFX_IJA_start_a_fuss_with_the_bear-445
+		x = 12
+		y = 4
+		cost = 2
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = IJA_tanggutrucesillynerds  }
+		
+		completion_reward = {
+			war_support_factor = 0.1
+			custom_effect_tooltip = "IJA_TOOLTIP_11"
+		}
+	}
+
+}

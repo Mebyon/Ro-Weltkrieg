@@ -6,7 +6,7 @@
 
 default = {
 	male = {
-		names = { "John" "Bob" "Lucas" "Marcus" "Alexander" "Alex" "Peter" "Jonas" "Jim" "Johannes"}
+		names = { "Robloxuser" }
 		surnames = {}
 		callsigns = {}
 	}
@@ -15,7 +15,7 @@ default = {
 	#	surnames = {}
 	#	callsigns = { "Queen Of The Sky" "The Red Princess" }
 	#}
-	surnames = { "Smith" "Jones" "Taylor" "Brown" "Williams" "Wilson" "Evans" "Walker" "White" "Roberts" }
-	callsigns = { "Easy Kill" "The Lightning" "The Devil" "Grasshopper" "Handsome" "Moose" "Mouse" "Pebbles" "Sunshine" Demon}
+	surnames = { "12039" "01283" "9123992" "9128383" "923998" 49292" 589321" "89592" }
+	callsigns = { "ur mom" }
 }
 

@@ -1225,11 +1225,14 @@ focus_tree = {
 
 			NOT = {
 
-				has_government = totalist
-				has_government = paternal_autocrat
-				has_government = national_populist
-			}
-		}
+				has_government = national_populism
+				has_government = reactionarism
+				has_government = despotism
+				has_government = ultranationalism
+				has_government = authoritarian_socialism
+				has_government = anarchism
+			}   
+		}       
 
 		prerequisite = { focus = generic_political_effort }
 		mutually_exclusive = { focus = generic_collectivist_ethos_kr }

@@ -1,0 +1,117 @@
+ija_reconquest_of_korea = {
+	ija_kill_richters_bruh = {		#ID of the decision, must not contain spaces!
+
+		icon = GFX_decision_icon_default		#The left side icon to show for this decision.
+		
+		# CONDITIONS TO MAKE THIS DECISION/MISSION APPEAR AND EXECUTE
+		
+		available = {		#Conditions that will allow the player/AI to click the decision and execute its effect.
+			always = no
+		}
+		
+		fire_only_once = yes		#If set to yes, the decision will only appear once, after execution will not appear again.
+		days_re_enable = 5	#The amount of days of days it will take for the decision to reappear. Not valid if fire_only_once is set to yes
+
+		visible = {		#Conditions to make this decision visible, can be left blank to make it always appear.
+			ROOT = {
+				is_ai = no
+			}		
+		}		
+
+		cost = 10		#The cost to execute the decision, by default its political power.
+
+		# EFFECTS OF THIS DECISION/MISSION
+
+		complete_effect = {		#The effects to execute once the envelope icon is clicked.
+			custom_effect_tooltip = "IJA_TOOLTIP_1"
+			hidden_effect = {
+				#country_event = bruh_moment
+			}
+		}
+		
+		# AI LOGIC FOR THIS DECISION/MISSION
+
+		ai_will_do = {	#Modifiers for the AI to decide when to execute the decision.
+			factor = 0
+		}
+	}
+}
+	
+
+ija_maintain_status_quo = {
+	ija_group_ownership = {		#ID of the decision, must not contain spaces!
+
+		icon = GFX_decision_icon_default		#The left side icon to show for this decision.
+		
+		# CONDITIONS TO MAKE THIS DECISION/MISSION APPEAR AND EXECUTE
+		
+		available = {		#Conditions that will allow the player/AI to click the decision and execute its effect.
+			always = no
+		}
+		
+		fire_only_once = yes		#If set to yes, the decision will only appear once, after execution will not appear again.
+		days_re_enable = 5	#The amount of days of days it will take for the decision to reappear. Not valid if fire_only_once is set to yes
+
+		visible = {		#Conditions to make this decision visible, can be left blank to make it always appear.
+			ROOT = {
+				is_ai = no
+			}		
+		}		
+
+		cost = 10		#The cost to execute the decision, by default its political power.
+
+		# EFFECTS OF THIS DECISION/MISSION
+
+		complete_effect = {		#The effects to execute once the envelope icon is clicked.
+			custom_effect_tooltip = "IJA_TOOLTIP_1"
+			hidden_effect = {
+				#country_event = bruh_moment
+			}
+		}
+		
+		# AI LOGIC FOR THIS DECISION/MISSION
+
+		ai_will_do = {	#Modifiers for the AI to decide when to execute the decision.
+			factor = 0
+		}
+	}
+}
+
+ija_rejection_of_old = {
+	ija_group_ownership = {		#ID of the decision, must not contain spaces!
+
+		icon = GFX_decision_icon_default		#The left side icon to show for this decision.
+		
+		# CONDITIONS TO MAKE THIS DECISION/MISSION APPEAR AND EXECUTE
+		
+		available = {		#Conditions that will allow the player/AI to click the decision and execute its effect.
+			always = no
+		}
+		
+		fire_only_once = yes		#If set to yes, the decision will only appear once, after execution will not appear again.
+		days_re_enable = 5	#The amount of days of days it will take for the decision to reappear. Not valid if fire_only_once is set to yes
+
+		visible = {		#Conditions to make this decision visible, can be left blank to make it always appear.
+			ROOT = {
+				is_ai = no
+			}		
+		}		
+
+		cost = 10		#The cost to execute the decision, by default its political power.
+
+		# EFFECTS OF THIS DECISION/MISSION
+
+		complete_effect = {		#The effects to execute once the envelope icon is clicked.
+			custom_effect_tooltip = "IJA_TOOLTIP_1"
+			hidden_effect = {
+				#country_event = bruh_moment
+			}
+		}
+		
+		# AI LOGIC FOR THIS DECISION/MISSION
+
+		ai_will_do = {	#Modifiers for the AI to decide when to execute the decision.
+			factor = 0
+		}
+	}
+}
