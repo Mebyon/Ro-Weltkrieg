@@ -7,7 +7,7 @@ state={
 	state_category=rural
 
 	history={
-		owner=FUK
+		owner=LEV
 		buildings = {
 			infrastructure=2
 			industrial_complex=1

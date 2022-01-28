@@ -1,13 +1,19 @@
 spriteTypes = {
 	
+	#INTERNATIONAL NEWS
 	spriteType = {
 		name = "GFX_news_lothairs_death"
 		texturefile = "gfx/event_pictures/kroneland_lothair_death.dds"
 	}
 	
-		spriteType = {
+	spriteType = {
 		name = "GFX_news_military_junta"
 		texturefile = "gfx/event_pictures/kroneland_military_junta.dds"
 	}
 
+	#EVENT WITH OPTIONS
+	spriteType = {
+		name = "GFX_ija_china_opening_event"
+		texturefile = "gfx/event_pictures/GFX_ija_china_opening_event.dds"
+	}
 }

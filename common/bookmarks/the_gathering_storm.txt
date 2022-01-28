@@ -4,95 +4,71 @@ bookmarks = {
 		desc = "GATHERING_STORM_NAME"
 		date = 1936.1.1.1
 		picture = "GFX_select_date_1936"
-		default_country = "GER"
+		default_country = "GAR"
 		default = yes
 
-		"FRA"={
-			history = "FRA_GATHERING_STORM_DESC"
-			ideology = democratic
+		"KOD"={
+			history = ""
+			ideology = authoritarian_democrat 
 			ideas = {
-				FRA_victors_of_wwi
-				FRA_disjointed_government
-				FRA_protected_by_the_maginot_line
+
 			}
 			focuses = {
-				FRA_form_the_popular_front
-				FRA_revive_the_national_bloc
-				FRA_france_leads
+
 			}
 		}
-		"USA"={
-			history = "USA_GATHERING_STORM_DESC"
-			ideology = democratic
+		"USM"={
+			history = ""
+			ideology = despotism
 			ideas = {
-				home_of_the_free
-				great_depression
-				undisturbed_isolation
+
 			}
 			focuses = {
-				USA_war_plan_black
-				USA_limited_intervention
-				USA_reestablish_the_gold_standard
 			}
 		}
-		"ENG"={
-			history = "ENG_GATHERING_STORM_DESC"
-			ideology = democratic
+		"FUK"={
+			history = ""
+			ideology = conservatism 
 			ideas = {
-				stiff_upper_lip
-				ENG_the_war_to_end_all_wars
-				george_v
+
 			}
 			focuses = {
-				tizard_mission_focus
-				ENG_war_with_germany
-				ENG_war_with_italy
+
 			}
 		}
-		"GER"={
-			history = "GER_GATHERING_STORM_DESC"
-			ideology = fascism
+		"GAR"={
+			history = ""
+			ideology = despotism 
 			ideas = {
-				sour_loser
-				general_staff
-				GER_mefo_bills_1
+
 			}
 			focuses = {
-				GER_anschluss
-				GER_danzig_or_war
-				GER_ussr_war_goal
+
 			}
 		}
-		"JAP"={
-			history = "JAP_GATHERING_STORM_DESC"
-			ideology = fascism
+		"ICR"={
+			history = ""
+			ideology = reactionarism  
 			ideas = {
-				state_shintoism
-				JAP_zaibatsus
-				JAP_militarism
+
 			}	
 			focuses = {
-				JAP_the_zero
-				JAP_warrior_spirit
-				JAP_strike_on_the_southern_resource_area
+
 			}			
 		}
-		"SOV"={
-			history = "SOV_GATHERING_STORM_DESC"
-			ideology = communism
+		"IJA"={
+			history = ""
+			ideology = ultranationalism 
 			ideas = {
-				trotskyite_plot
-				home_of_revolution
+
 			}
 			focuses = {
-				SOV_great_purge
-				SOV_claims_on_baltic
-				SOV_war_with_uk
+
 			}	
 		}
-		"SPR"={
+		"OCT"={
 			history = ""
-			ideology = fascism
+			ideology = national_populism 
 			ideas = {
 			
 			}
@@ -106,84 +82,84 @@ bookmarks = {
 		}
 
 
-		# minors from DLC ####
-		"POL"={
-			minor = yes
-			history = ""
-			ideology = neutrality
-			ideas = {
-				
-			}
-			focuses = {
-
-			}
-		}
-		"HOL"={
-			minor = yes
-			history = ""
-			ideology = neutrality
-			ideas = {
-				
-			}
-			focuses = {
-
-			}
-		}
-		"NOR"={
-			minor = yes
-			history = ""
-			ideology = neutrality
-			ideas = {
-				
-			}
-			focuses = {
-
-			}
-		}
-		"FIN"={
-			minor = yes
-			history = ""
-			ideology = neutrality
-			ideas = {
-				
-			}
-			focuses = {
-
-			}
-		}
-		"AST"={
-			minor = yes
-			history = ""
-			ideology = democratic
-			ideas = {
-				
-			}
-			focuses = {
-
-			}
-		}
-		"CAN"={
-			minor = yes
-			history = ""
-			ideology = democratic
-			ideas = {
-				
-			}
-			focuses = {
-
-			}
-		}
-		"CHI"={
-			minor = yes
-			history = ""
-			ideology = neutrality
-			ideas = {
-				
-			}
-			focuses = {
-
-			}
-		}
+#		# minors from DLC ####
+#		"KOD"={
+#			minor = yes
+#			history = ""
+#			ideology = 
+#			ideas = {
+#				
+#			}
+#			focuses = {
+#
+#			}
+#		}
+#		"POK"={
+#			minor = yes
+#			history = ""
+#			ideology = 
+#			ideas = {
+#				
+#			}
+#			focuses = {
+#
+#			}
+#		}
+#		"KOB"={
+#			minor = yes
+#			history = ""
+#			ideology = 
+#			ideas = {
+#				
+#			}
+#			focuses = {
+#
+#			}
+#		}
+#		"KOF"={
+#			minor = yes
+#			history = ""
+#			ideology = 
+#			ideas = {
+#				
+#			}
+#			focuses = {
+#
+#			}
+#		}
+#		"KVD"={
+#			minor = yes
+#			history = ""
+#			ideology = 
+#			ideas = {
+#				
+#			}
+#			focuses = {
+#
+#			}
+#		}
+#		"NPR"={
+#			minor = yes
+#			history = ""
+#			ideology = 
+#			ideas = {
+#				
+#			}
+#			focuses = {
+#
+#			}
+#		}
+#		""={
+#			minor = yes
+#			history = ""
+#			ideology = 
+#			ideas = {
+#				
+#			}
+#			focuses = {
+#
+#			}
+#		}
 		effect = {
 			randomize_weather = 22345 # <- Obligatory in every bookmark !
 			#123 = { rain_light = yes }

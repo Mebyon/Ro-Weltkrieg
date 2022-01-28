@@ -5,11 +5,11 @@
 
 ### Names ###
  anarchism_type:0 "Anarchism"
- authoritarian_socialism:0 "Auth.Socialism"
+ authoritarian_socialism:0 "Auth. Socialism"
  popular_socialism:0 "Popular Socialism"
  liberalism:0 "Liberalism"
  conservatism:0 "Conservatism"
- authoritarian_democrat:0 "Authoritarian Dem."
+ authoritarian_democrat:0 "Auth. Democrat"
  despotism_type:0 "Despotism"
  reactionarism:0 "Reactionarism"
  national_populism: "National Populism"
@@ -17,7 +17,7 @@
  
 ### Nouns ###
  anarchism_type_noun:0 "Anarchism"
- authoritarian_socialism_noun:0 "Authoritarian Socialism"
+ authoritarian_socialism_noun:0 "Auth. Socialism"
  popular_socialism_noun:0 "Popular Socialism"
  liberalism_noun:0 "Liberalism"
  conservatism_noun:0 "Conservatism"
@@ -41,36 +41,46 @@
  ultranationalism_desc:0 "Reactionary"
  
 ### Subtype Descriptions ###
- #stateless_anarchy
- #anarcho_syndicalist
- #state_socialism
- #theocratic_socialist
- #stalinism_subtype
- #democratic_socialist
- #council_communism
- #syndicalism_subtype
- #social_liberal
- #social_democrat
- #liberal_conservatism
- #social_conservative
- #national_conservatism
- #authoritarian_democrat_subtype
- #constitutional_monarchy
- #autocrat
- #military_junta
- #absolute_monarchy
- #colonial_government
- #warlord_government
- #reactionary_populism
- #religious_fundamentalism
- #esoteric_reactionism
- #national_populist
- #democratic_nationalism
- #fascism_subtype
- #royal_populism
- #ultranationalist
- #national_communism
- #futurist
+ stateless_anarchy_desc:0 "Stateless anarchism, the classic anarchy we all know and love."
+ anarcho_syndicalist_desc:0 "A far-left branch of anarchism that advocates the abolition of the state, capitalism, wage labour, social hierarchies and private property."
+ 
+ state_socialism_desc:0 "State socialism is a political and economic ideology within the socialist movement advocating state ownership of the means of production."
+ theocratic_socialist_desc:0 "Religious socialism is a type of socialism based on religious values."
+ stalinism_subtype_desc:0 "Dictatorship of the proletariat? Marxism? Babies. Stalin is love, we love Stalin."
+ 
+ democratic_socialist_desc:0 "Remember Petrograd Soviets and the Dumas? What a shame, we should bring democracy back to our beloved government and let the people freely choose what they want."
+ council_communism_desc:0 "Supreme Soviet calling!!! Let's get back with the good ol' days with Lenin and his boys Trotsky, Bukharin, and Kamenev. Stalin can kiss his own ass."
+ syndicalism_subtype_desc:0 "Some call it 'le funny kaiserreich ideology', but we call it... Arbeit mach- I mean Labour first."
+ 
+ social_liberal_desc:0 "Your classic self-proclaimed LGBTQ+ revolutionary, or uh, maybe can we just chill for a sec?"
+ social_democrat_desc:0 "GETTING TO DENMARK???? FR THIS TIME??"
+ liberal_conservatism_desc:0 "Liberal Democracy is the way to go."
+ 
+ social_conservative_desc:0 "Healthy Conservatism, where we need to get off Trump's penis." 
+ national_conservatism_desc:0 "Viktor Orban is on your line."
+ 
+ authoritarian_democrat_subtype_desc:0 "Der Ruling Elites should have all of le power..."
+ constitutional_monarchy_desc:0 "The Monarch is great but we need a functioning government don't we?"
+ 
+ autocrat_desc:0 "One man, one country."
+ military_junta_desc:0 "Oh yes, I love the military."
+ absolute_monarchy_desc:0 "NO LIMITS, THE LAW OF THE CONSTITUTION IS A SCAM. THE MONARCH IS BY CHOSEN CLEARLY BY GOD AND IT IS THE MONARCH'S RIGHT TO RULE."
+ colonial_government_desc:0 "We do a little trolling on the natives by exploiting aye? Colonialism at its finest."
+ warlord_government_desc:0 "You may call me a warlord, but I am totally legit."
+ 
+ reactionary_populism_desc:0 "Errr right-wing populism anyone?"
+ religious_fundamentalism_desc:0 "'NAHN RASUL ALLAHI!!! Tathir alshari alzanadiqa...' -average based fundamentalist"
+ esoteric_reactionism_desc:0 "The Third Position, otherwise known as 'being fatherless'."
+ 
+ national_populist_desc:0 "Your average TNO fan with the IQ of 2, do they even exist nowadays? Will they finally reach the age of 14?"
+ democratic_nationalism_desc:0 "Mussolini I don't feel so good."
+ fascism_subtype_desc:0 "'Based, Cringe, Redpilled!!!' SHUT THE FUCK UP ALREADY!!!"
+ royal_populism_desc:0 "Hungary in the 1930s."
+ autism_desc:0 "Developmental disorder that affects communication and behavior."
+ 
+ ultranationalist_desc:0 "LUV YER COUNTRY."
+ national_communism_desc:0 "FOR DER MORTHERLAND."
+ futurist_desc:0 "ACCELERATIONISM FROM RED FLOOD??"
  
 ### Drift ###
  anarchism_type_drift:0 "Daily Anarchism Support"

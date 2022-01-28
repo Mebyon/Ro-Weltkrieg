@@ -215,6 +215,7 @@ ideologies = {
 			absolute_monarchy = {}
 			colonial_government = {}
 			warlord_government = {}
+			religious_fundamentalism = {}
 		}
 		dynamic_faction_names = {
 			"FACTION_NAME_PATERNAL_AUTOCRAT_1"
@@ -251,9 +252,6 @@ ideologies = {
 			reactionary_populism = {
 			}
 
-			religious_fundamentalism = {
-			}
-
 			esoteric_reactionism = {
 			}
 		}
@@ -261,7 +259,7 @@ ideologies = {
 		dynamic_faction_names = {
 		}
 
-		color = { 128 70 164 }
+		color = { 127 0 55 }
 
 		war_impact_on_world_tension = 1.0
 		faction_impact_on_world_tension = 0.5
@@ -330,7 +328,7 @@ ideologies = {
 			"FACTION_NAME_ULTRANATIONALIST_5"
 			"FACTION_NAME_ULTRANATIONALIST_6"
 		}
-		color = { 19 96 67 }
+		color = { 128 70 164 }
 		rules = {
 			can_force_government = no
 			can_puppet = no

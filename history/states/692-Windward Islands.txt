@@ -5,7 +5,7 @@ state={
 	state_category=small_island
 
 	history={
-		owner=FUK
+		owner=BWE
 		buildings = {
 			infrastructure=2
 			11350 = {

@@ -67,6 +67,17 @@ set_popularities = {
 	ultranationalism = 0
 }
 
+create_country_leader = {
+	name = "NoochAvelino"
+	desc = ""
+	picture = "BRAZIL NoochAvelino.dds"
+	expire = "1953.3.1"
+	ideology = constitutional_monarchy
+	traits = {
+		
+	}
+}
+
 
 set_convoys = 40
 

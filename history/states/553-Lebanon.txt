@@ -7,7 +7,7 @@ state={
 	state_category=town
 
 	history={
-		owner=FUK
+		owner=LEV
 		victory_points = {
 			792 5 
 		}

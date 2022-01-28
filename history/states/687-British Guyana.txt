@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner=FUK
+		owner=BWE
 		victory_points = {
 			4982 1
 		}
