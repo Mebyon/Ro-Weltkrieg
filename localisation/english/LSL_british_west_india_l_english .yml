@@ -1,0 +1,30 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ BWE:0 "British West Indies"
+ BWE_ADJ:0 "British"
+ BWE_DEF:0 "Britain"
+
+### Parties ###
+ BWE_anarchism_type_party:0 "TEMP"
+ BWE_anarchism_type_party_long:0 "TEMP"
+ BWE_authoritarian_socialism_party:0 "TEMP"
+ BWE_authoritarian_socialism_long:0 "TEMP" 
+ BWE_popular_socialism_party:0 "TEMP"
+ BWE_popular_socialism_party_long:0 "TEMP" 
+ BWE_liberalism_party:0 "TEMP"
+ BWE_liberalism_long:0 "TEMP"
+ BWE_conservatism_party:0 "TEMP"
+ BWE_conservatism_party_long:0 "TEMP"
+ BWE_authoritarian_democrat_party:0 "TEMP"
+ BWE_authoritarian_democrat_party_long:0 "TEMP"
+ BWE_despotism_type_party:0 "TEMP"
+ BWE_despotism_type_party_long:0 "TEMP"
+ BWE_reactionarism_party:0 "TEMP"
+ BWE_reactionarism_party_long:0 "TEMP"
+ BWE_national_populism_party:0 "TEMP"
+ BWE_national_populism_party_long:0 "TEMP"
+ BWE_ultranationalism_party:0 "TEMP"
+ BWE_ultranationalism_party_long:0 "TEMP"

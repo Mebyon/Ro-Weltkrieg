@@ -1,0 +1,30 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ FCE:0 "Republic of Central America"
+ FCE_ADJ:0 "Central American"
+ FCE_DEF:0 "Central America"
+
+### Parties ###
+ FCE_anarchism_type_party:0 "TEMP"
+ FCE_anarchism_type_party_long:0 "TEMP"
+ FCE_authoritarian_socialism_party:0 "TEMP"
+ FCE_authoritarian_socialism_long:0 "TEMP" 
+ FCE_popular_socialism_party:0 "TEMP"
+ FCE_popular_socialism_party_long:0 "TEMP" 
+ FCE_liberalism_party:0 "TEMP"
+ FCE_liberalism_long:0 "TEMP"
+ FCE_conservatism_party:0 "TEMP"
+ FCE_conservatism_party_long:0 "TEMP"
+ FCE_authoritarian_democrat_party:0 "TEMP"
+ FCE_authoritarian_democrat_party_long:0 "TEMP"
+ FCE_despotism_type_party:0 "TEMP"
+ FCE_despotism_type_party_long:0 "TEMP"
+ FCE_reactionarism_party:0 "TEMP"
+ FCE_reactionarism_party_long:0 "TEMP"
+ FCE_national_populism_party:0 "TEMP"
+ FCE_national_populism_party_long:0 "TEMP"
+ FCE_ultranationalism_party:0 "TEMP"
+ FCE_ultranationalism_party_long:0 "TEMP"

@@ -1,0 +1,39 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ LIB:0 "Liberia"
+ LIB_DEF:0 "Liberia"
+ LIB_ADJ:0 "Liberian"
+
+### Parties ###
+ LIB_anarchism_type_party:0 "TEMP"
+ LIB_anarchism_type_party_long:0 "TEMP"
+ LIB_authoritarian_socialism_party:0 "TEMP"
+ LIB_authoritarian_socialism_long:0 "TEMP"
+ LIB_popular_socialism_party:0 "TEMP"
+ LIB_popular_socialism_party_long:0 "TEMP"
+ LIB_liberalism_party:0 "TEMP"
+ LIB_liberalism_long:0 "TEMP"
+ LIB_conservatism_party:0 "TEMP"
+ LIB_conservatism_party_long:0 "TEMP"
+ LIB_authoritarian_democrat_party:0 "TEMP"
+ LIB_authoritarian_democrat_party_long:0 "TEMP"
+ LIB_despotism_type_party:0 "TEMP"
+ LIB_despotism_type_party_long:0 "TEMP"
+ LIB_reactionarism_party:0 "TEMP"
+ LIB_reactionarism_party_long:0 "TEMP"
+ LIB_national_populism_party:0 "TEMP"
+ LIB_national_populism_party_long:0 "TEMP"
+ LIB_ultranationalism_party:0 "TEMP"
+ LIB_ultranationalism_party_long:0 "TEMP"
+
+### Traits ###
+
+### Ideas ###
+ 
+### Focus ###
+ 
+### Events ###
+ 

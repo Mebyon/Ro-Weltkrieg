@@ -1,0 +1,30 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ KSA:0 "Kingdom of Saudi Arabia"
+ KSA_ADJ:0 "High Arabian"
+ KSA_DEF:0 "High Arab"
+
+### Parties ###
+ KSA_anarchism_type_party:0 "TEMP"
+ KSA_anarchism_type_party_long:0 "TEMP"
+ KSA_authoritarian_socialism_party:0 "TEMP"
+ KSA_authoritarian_socialism_long:0 "TEMP" 
+ KSA_popular_socialism_party:0 "TEMP"
+ KSA_popular_socialism_party_long:0 "TEMP" 
+ KSA_liberalism_party:0 "TEMP"
+ KSA_liberalism_long:0 "TEMP"
+ KSA_conservatism_party:0 "TEMP"
+ KSA_conservatism_party_long:0 "TEMP"
+ KSA_authoritarian_democrat_party:0 "TEMP"
+ KSA_authoritarian_democrat_party_long:0 "TEMP"
+ KSA_despotism_type_party:0 "TEMP"
+ KSA_despotism_type_party_long:0 "TEMP"
+ KSA_reactionarism_party:0 "TEMP"
+ KSA_reactionarism_party_long:0 "TEMP"
+ KSA_national_populism_party:0 "TEMP"
+ KSA_national_populism_party_long:0 "TEMP"
+ KSA_ultranationalism_party:0 "TEMP"
+ KSA_ultranationalism_party_long:0 "TEMP"

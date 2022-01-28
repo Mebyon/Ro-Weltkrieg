@@ -1,0 +1,30 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ SAM:0 "Republic of Sambuza"
+ SAM_ADJ:0 "Sambuzan"
+ SAM_DEF:0 "Sambuza"
+
+### Parties ###
+ SAM_anarchism_type_party:0 "TEMP"
+ SAM_anarchism_type_party_long:0 "TEMP"
+ SAM_authoritarian_socialism_party:0 "TEMP"
+ SAM_authoritarian_socialism_long:0 "TEMP" 
+ SAM_popular_socialism_party:0 "TEMP"
+ SAM_popular_socialism_party_long:0 "TEMP" 
+ SAM_liberalism_party:0 "TEMP"
+ SAM_liberalism_long:0 "TEMP"
+ SAM_conservatism_party:0 "TEMP"
+ SAM_conservatism_party_long:0 "TEMP"
+ SAM_authoritarian_democrat_party:0 "TEMP"
+ SAM_authoritarian_democrat_party_long:0 "TEMP"
+ SAM_despotism_type_party:0 "TEMP"
+ SAM_despotism_type_party_long:0 "TEMP"
+ SAM_reactionarism_party:0 "TEMP"
+ SAM_reactionarism_party_long:0 "TEMP"
+ SAM_national_populism_party:0 "TEMP"
+ SAM_national_populism_party_long:0 "TEMP"
+ SAM_ultranationalism_party:0 "TEMP"
+ SAM_ultranationalism_party_long:0 "TEMP"

@@ -1,0 +1,30 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ PER:0 "Imperial State of Persia"
+ PER_ADJ:0 "Persian"
+ PER_DEF:0 "Pars"
+
+### Parties ###
+ PER_anarchism_type_party:0 "TEMP"
+ PER_anarchism_type_party_long:0 "TEMP"
+ PER_authoritarian_socialism_party:0 "TEMP"
+ PER_authoritarian_socialism_long:0 "TEMP" 
+ PER_popular_socialism_party:0 "TEMP"
+ PER_popular_socialism_party_long:0 "TEMP" 
+ PER_liberalism_party:0 "TEMP"
+ PER_liberalism_long:0 "TEMP"
+ PER_conservatism_party:0 "TEMP"
+ PER_conservatism_party_long:0 "TEMP"
+ PER_authoritarian_democrat_party:0 "TEMP"
+ PER_authoritarian_democrat_party_long:0 "TEMP"
+ PER_despotism_type_party:0 "TEMP"
+ PER_despotism_type_party_long:0 "TEMP"
+ PER_reactionarism_party:0 "TEMP"
+ PER_reactionarism_party_long:0 "TEMP"
+ PER_national_populism_party:0 "TEMP"
+ PER_national_populism_party_long:0 "TEMP"
+ PER_ultranationalism_party:0 "TEMP"
+ PER_ultranationalism_party_long:0 "TEMP"

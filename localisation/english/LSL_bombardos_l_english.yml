@@ -1,0 +1,30 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ BOM:0 "Republic of Bombardos"
+ BOM_ADJ:0 "Bombardos"
+ BOM_DEF:0 "Free City of Bombardos"
+
+### Parties ###
+ BOM_anarchism_type_party:0 "TEMP"
+ BOM_anarchism_type_party_long:0 "TEMP"
+ BOM_authoritarian_socialism_party:0 "TEMP"
+ BOM_authoritarian_socialism_long:0 "TEMP" 
+ BOM_popular_socialism_party:0 "TEMP"
+ BOM_popular_socialism_party_long:0 "TEMP" 
+ BOM_liberalism_party:0 "TEMP"
+ BOM_liberalism_long:0 "TEMP"
+ BOM_conservatism_party:0 "TEMP"
+ BOM_conservatism_party_long:0 "TEMP"
+ BOM_authoritarian_democrat_party:0 "TEMP"
+ BOM_authoritarian_democrat_party_long:0 "TEMP"
+ BOM_despotism_type_party:0 "TEMP"
+ BOM_despotism_type_party_long:0 "TEMP"
+ BOM_reactionarism_party:0 "TEMP"
+ BOM_reactionarism_party_long:0 "TEMP"
+ BOM_national_populism_party:0 "TEMP"
+ BOM_national_populism_party_long:0 "TEMP"
+ BOM_ultranationalism_party:0 "TEMP"
+ BOM_ultranationalism_party_long:0 "TEMP"

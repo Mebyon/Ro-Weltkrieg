@@ -1,0 +1,74 @@
+﻿###########################
+# IJA Events
+###########################
+
+add_namespace = ija
+
+country_event = {
+	id = ija.1
+	title = "The Four Horsemen"
+	desc = ija.1.d
+	picture = GFX_ija_opening_event
+	
+	fire_only_once = yes
+	is_triggered_only = yes
+	trigger = {
+		original_tag = IJA
+		date > 1946.6.1
+	}
+	
+	mean_time_to_happen = {
+		days = 29
+		modifier = {
+			factor = 1.0
+			date > 1946.6.3
+		}
+	}
+	option = { 
+		name = "Maintain the Status Quo"
+		activate_decision = ija_maintain_status_quo
+		hidden_effect = {
+			add_stability = -0.1
+		}
+		#effect_tooltip = {
+		#	activate_decision = ija_maintain_status_quo
+		#}
+	}
+	option = {
+		name = "Rejection of the Old Guard"
+		ai_chance = { factor = 10 }
+		activate_decision = ija_rejection_of_old
+		#effect_tooltip = {
+		#	activate_decision = ija_rejection_of_old
+		#}
+	}
+}
+
+country_event = {
+	id = ija.2
+	title = "Totally-Not-Marco-Polo Incident"
+	desc = ija.2.d
+	picture = GFX_ija_china_opening_event
+	
+	fire_only_once = yes
+	is_triggered_only = yes
+	trigger = {
+		original_tag = IJA
+		date > 1946.6.1
+	}
+	
+	mean_time_to_happen = {
+		days = 29
+		modifier = {
+			factor = 1.0
+			date > 1946.6.3
+		}
+	}
+	option = { 
+		name = "Onwards the Imperial Army!"
+		hidden_effect = {
+			local_manpower = -100
+		}
+		custom_effect_tooltip = "IJA_TOOLTIP_12"
+	}
+}

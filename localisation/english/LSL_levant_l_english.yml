@@ -1,0 +1,30 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ LEV:0 "Kingdom of the Levant"
+ LEV_ADJ:0 "Arabian"
+ LEV_DEF:0 "Arab"
+
+### Parties ###
+ LEV_anarchism_type_party:0 "TEMP"
+ LEV_anarchism_type_party_long:0 "TEMP"
+ LEV_authoritarian_socialism_party:0 "TEMP"
+ LEV_authoritarian_socialism_long:0 "TEMP" 
+ LEV_popular_socialism_party:0 "TEMP"
+ LEV_popular_socialism_party_long:0 "TEMP" 
+ LEV_liberalism_party:0 "TEMP"
+ LEV_liberalism_long:0 "TEMP"
+ LEV_conservatism_party:0 "TEMP"
+ LEV_conservatism_party_long:0 "TEMP"
+ LEV_authoritarian_democrat_party:0 "TEMP"
+ LEV_authoritarian_democrat_party_long:0 "TEMP"
+ LEV_despotism_type_party:0 "TEMP"
+ LEV_despotism_type_party_long:0 "TEMP"
+ LEV_reactionarism_party:0 "TEMP"
+ LEV_reactionarism_party_long:0 "TEMP"
+ LEV_national_populism_party:0 "TEMP"
+ LEV_national_populism_party_long:0 "TEMP"
+ LEV_ultranationalism_party:0 "TEMP"
+ LEV_ultranationalism_party_long:0 "TEMP"

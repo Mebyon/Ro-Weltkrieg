@@ -1,0 +1,30 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ MXC:0 "United Mexican States"
+ MXC_ADJ:0 "Mexican"
+ MXC_DEF:0 "Mexico"
+
+### Parties ###
+ MXC_anarchism_type_party:0 "TEMP"
+ MXC_anarchism_type_party_long:0 "TEMP"
+ MXC_authoritarian_socialism_party:0 "TEMP"
+ MXC_authoritarian_socialism_long:0 "TEMP" 
+ MXC_popular_socialism_party:0 "TEMP"
+ MXC_popular_socialism_party_long:0 "TEMP" 
+ MXC_liberalism_party:0 "TEMP"
+ MXC_liberalism_long:0 "TEMP"
+ MXC_conservatism_party:0 "TEMP"
+ MXC_conservatism_party_long:0 "TEMP"
+ MXC_authoritarian_democrat_party:0 "TEMP"
+ MXC_authoritarian_democrat_party_long:0 "TEMP"
+ MXC_despotism_type_party:0 "TEMP"
+ MXC_despotism_type_party_long:0 "TEMP"
+ MXC_reactionarism_party:0 "TEMP"
+ MXC_reactionarism_party_long:0 "TEMP"
+ MXC_national_populism_party:0 "TEMP"
+ MXC_national_populism_party_long:0 "TEMP"
+ MXC_ultranationalism_party:0 "TEMP"
+ MXC_ultranationalism_party_long:0 "TEMP"

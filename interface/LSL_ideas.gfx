@@ -1,0 +1,56 @@
+spriteTypes = {	
+
+	SpriteType = {
+		name = "GFX_idea_house_of_koppenhausen"
+		texturefile = "gfx/interface/ideas/house_of_koppenhausen.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_anti_communism"
+		texturefile = "gfx/interface/ideas/anti_commie.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_political_violence"
+		texturefile = "gfx/interface/ideas/political_violence.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_weak_army"
+		texturefile = "gfx/interface/ideas/weak_army.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_unstable_government"
+		texturefile = "gfx/interface/ideas/unstable_government.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_vorstenbond_league"
+		texturefile = "gfx/interface/ideas/vorstenbond_league.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_remnants_of_the_old_community"
+		texturefile = "gfx/interface/ideas/remnants_of_the_old_community.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_growing_factionalism"
+		texturefile = "gfx/interface/ideas/growing_factionalism.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_idea_loss_of_korea"
+		texturefile = "gfx/interface/ideas/loss_of_korea.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_self_sufficiency"
+		texturefile = "gfx/interface/ideas/self_sufficiency.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_isles_in_isolation"
+		texturefile = "gfx/interface/ideas/isles_in_isolation.dds"
+	}
+	
+}

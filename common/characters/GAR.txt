@@ -1,0 +1,59 @@
+characters={
+	GAR_lewis ={
+		name="Leutgard"
+		portraits={
+			civilian={
+				large="gfx/leaders/GAR/LEWISADO.dds"
+			}
+		}
+		country_leader={
+			ideology=autocrat
+			desc = "LEWIS_DESC"
+			expire="1965.1.1.1"
+			traits = {
+				
+			}
+		}
+	}
+
+#	AUS_karl_eglseer={
+#		name=AUS_karl_eglseer
+#		portraits={
+#			army={
+#				large="gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+#				small="gfx/interface/ideas/idea_europe_generic_land_2.dds"
+#			}
+#		}
+#		corps_commander={
+#			traits={ trickster trait_mountaineer }
+#			skill=3
+#			attack_skill=2
+#			defense_skill=3
+#			planning_skill=3
+#			logistics_skill=2
+#			legacy_id=-1
+#		}
+#	}
+#	AUS_odilo_globocnik={
+#		advisor={
+#			slot = army_chief
+#			idea_token = AUS_odilo_globocnik
+#			allowed = {
+#					original_tag = AUS
+#				}
+#				traits = {
+#					army_entrenchment_2
+#				}
+#				cost = 100
+#				ai_will_do = {
+#					factor = 1.000
+#				}
+#		}
+#		name=AUS_odilo_globocnik
+#		portraits={
+#			army={
+#				small="GFX_idea_generic_army_europe_2"
+#			}
+#		}
+#	}
+}

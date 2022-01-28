@@ -1,0 +1,61 @@
+spriteTypes = {	
+
+	SpriteType = {
+		name = "GFX_idea_JAP_daivietnam"
+		texturefile = "gfx/interface/ministers/daivietnam.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_JAP_JACKALACK1722"
+		texturefile = "gfx/interface/ministers/pm_jack.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_JAP_jack_rockwell"
+		texturefile = "gfx/interface/ministers/jack_rockwell.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_JAP_Nagato_Rose"
+		texturefile = "gfx/interface/ministers/nagato_rose.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_JAP_Kijiro_Nambu"
+		texturefile = "gfx/interface/ministers/kijiro_nambu.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_JAP_Imperial_Steel"
+		texturefile = "gfx/interface/ministers/imperial_steel.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_JAP_Hideo_Nakagawa"
+		texturefile = "gfx/interface/ministers/Hideo_Nakagawa.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_JAP_makerplace101"
+		texturefile = "gfx/interface/ministers/makerplace101.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_JAP_1989ubermensch"
+		texturefile = "gfx/interface/ministers/1989ubermensch.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_JAP_generic_economy_minister"
+		texturefile = "gfx/interface/ministers/JAP_generic_economy_minister.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_idea_JAP_generic_foreign_minister"
+		texturefile = "gfx/interface/ministers/JAP_generic_foreign_minister.dds"
+	}
+	SpriteType = {
+		name = "GFX_idea_JAP_generic_interior_minister"
+		texturefile = "gfx/interface/ministers/JAP_generic_interior_minister.dds"
+	}
+}

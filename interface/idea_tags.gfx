@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea"
+		texturefile = "gfx/interface/icon_manage_subjects.dds"
+	}
+}
+

@@ -1,0 +1,31 @@
+﻿capital = 330
+
+oob = "MON_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+add_ideas = {
+	limited_conscription
+}
+
+set_politics = {
+	ruling_party = despotism_type
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	anarchism_type = 0
+	authoritarian_socialism = 0
+	popular_socialism = 0
+	liberalism = 10
+	conservatism = 20
+	authoritarian_democrat = 0
+	despotism_type = 70
+	reactionarism = 10
+	national_populism = 0
+	ultranationalism = 0
+}

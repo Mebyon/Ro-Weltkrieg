@@ -1,0 +1,24 @@
+﻿###########################
+# Kroneland Events
+###########################
+
+#add_namespace = kroneland
+#
+# Choose between der heir
+#country_event = {
+#	id = kroneland.1
+#	title = kroneland.1.t
+#	desc = kroneland.1.d
+#	picture = GFX_report_event_
+#	
+#	is_triggered_only = yes
+#	
+#	option = {
+#		name = bulgaria.1.a
+#		POK = { 
+#			transfer_state = 77
+#			add_state_core = 77
+#		}
+#	}
+#}
+#
