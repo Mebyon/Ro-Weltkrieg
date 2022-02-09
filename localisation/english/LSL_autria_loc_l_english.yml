@@ -1,0 +1,30 @@
+﻿l_english:
+
+### Tooltips ###
+
+### Cosmetic Tags ###
+ RAH:0 "Self-Proclaimed Austria-Hungary"
+ RAH_ADJ:0 "Austrian"
+ RAH_DEF:0 "Austria"
+
+### Parties ###
+ RAH_anarchism_type_party:0 "TEMP"
+ RAH_anarchism_type_party_long:0 "TEMP"
+ RAH_authoritarian_socialism_party:0 "TEMP"
+ RAH_authoritarian_socialism_long:0 "TEMP" 
+ RAH_popular_socialism_party:0 "TEMP"
+ RAH_popular_socialism_party_long:0 "TEMP" 
+ RAH_liberalism_party:0 "TEMP"
+ RAH_liberalism__party_long:0 "TEMP"
+ RAH_conservatism_party:0 "TEMP"
+ RAH_conservatism_party_long:0 "TEMP"
+ RAH_authoritarian_democrat_party:0 "Richfton Block"
+ RAH_authoritarian_democrat_party_long:0 "Richfton Block"
+ RAH_despotism_type_party:0 "TEMP"
+ RAH_despotism_type_party_long:0 "TEMP"
+ RAH_reactionarism_party:0 "TEMP"
+ RAH_reactionarism_party_long:0 "TEMP"
+ RAH_national_populism_party:0 "TEMP"
+ RAH_national_populism_party_long:0 "TEMP"
+ RAH_ultranationalism_party:0 "TEMP"
+ RAH_ultranationalism_party_long:0 "TEMP"

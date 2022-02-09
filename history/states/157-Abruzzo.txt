@@ -7,7 +7,7 @@ state={
 	state_category=city
 
 	history={
-		owner=FID
+		owner=KOI
 		victory_points = {
 			925 1 
 		}
@@ -22,6 +22,7 @@ state={
 			}
 		}
 		add_core_of = FID
+		add_core_of = KOI
 	}
 
 	provinces={

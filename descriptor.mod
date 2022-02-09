@@ -1,4 +1,4 @@
-version="early 1.2"
+version="alpha"
 replace_path="common/on_actions"
 replace_path="common/national_focus"
 replace_path="common/ideas"
@@ -11,8 +11,6 @@ replace_path="events"
 replace_path="common/dynamic_modifiers"
 tags={
 	"Utilities"
-	"Ideologies"
-	"Military"
 }
-name="da beta"
-supported_version="1.11.*"
+name="RWW2"
+supported_version="1.11.5"

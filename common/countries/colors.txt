@@ -221,6 +221,19 @@ GPT = {
 	color_ui = rgb { 39  116  70 }
 }
 ################################
+KOI = {
+	color = rgb { 67  127  63 }
+	color_ui = rgb { 67  127  63 }
+}
+TKH = {
+	color = rgb { 138  163  117 }
+	color_ui = rgb { 138  163  117 }
+}
+RAH = {
+	color = rgb { 224  228  255 }
+	color_ui = rgb { 224  228  255 }
+}
+################################
 BHT = {
 	color = rgb { 172 122 88 }
 	color_ui = rgb { 172 122 88 }
@@ -246,4 +259,36 @@ AHG = {
 LIB = {
 	color = rgb { 152  130  191 }
 	color_ui = rgb { 152  130  191 }
+}
+KSA = {
+	color = rgb { 14 61 4 }
+	color_ui = rgb { 14 61 4 }
+}
+SWE = {
+	color = rgb { 36  132  247 }
+	color_ui = rgb { 36  132  247 }
+}
+SOE = {
+	color = rgb { 230 230 70 }
+	color_ui = rgb { 230 230 70 }
+}
+
+ETH = {
+	color = rgb { 152  130  191 }
+	color_ui = rgb { 152  130  191 }
+}
+
+OMA = {
+	color = rgb { 155  101  107 }
+	color_ui = rgb { 155  101  107 }
+}
+
+YEM = {
+	color = rgb { 155  101  107 }
+	color_ui = rgb { 155  101  107 }
+}
+
+ICE = {
+	color = rgb { 100  125  175 }
+	color_ui = rgb { 100  125  175 }
 }

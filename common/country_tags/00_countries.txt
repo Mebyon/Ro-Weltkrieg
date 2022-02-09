@@ -21,6 +21,7 @@ GUA = "countries/Guatemla.txt"
 PAN = "countries/Panama.txt"
 DOM = "countries/Dominican Republic.txt"
 BWE = "countries/British West India.txt"
+#CAS = "countries/Cascadia.txt"
 ####################################################
 #WESTERN AND NORTHERN EUROPE
 POK = "countries/Kroneland.txt"
@@ -40,15 +41,37 @@ UBR = "countries/Baltic Realm.txt"
 SSV = "countries/Soumi Finland.txt"
 KDM = "countries/Danish Kingdom.txt"
 KNW = "countries/Norse.txt"
+GPT = "countries/Portugese.txt"
+SWE = "countries/Sweden.txt"
+ICE = "countries/Iceland.txt"
 ####################################################
 #CENTRAL AND EASTERN EUROPE
 NPR = "countries/NPRSR.txt"
-IRF = "countries/Vas.txt"
 CZO = "countries/Czonia.txt"
+KEL = "countries/Edelkara.txt"
+CSR = "countries/Czechoslovak Republic.txt"
+####################################################
+#ITALY
+KOI = "countries/Italy.txt"
 HER = "countries/Hasan.txt"
 FSI = "countries/Fidelites.txt"
 NIT = "countries/Neutgard.txt"
-KEL = "countries/Edelkara.txt"
+####################################################
+#VISEGRAD??
+#ZUS = "countries/Zusten.txt"
+#DOV = "countries/Vienna.txt"
+RAH = "countries/Richftons Austria.txt"
+TKH = "countries/Kingdom of Hungary.txt"
+####################################################
+#RUSSIA
+IRF = "countries/Vas.txt"
+#CSA = "countries/Siberia.txt"
+#BMD = "countries/Baskhir.txt"
+#FCA = "countries/Caucasian.txt"
+#KSG = "countries/Kazakhstan.txt"
+#TIR = "countries/Imperial Russia.txt"
+#YKT = "countries/Yakutiya.txt"
+#FEA = "countries/Far East.txt"
 ####################################################
 #THE BALKANS
 PYS = "countries/Pawels Yugo.txt"
@@ -56,8 +79,6 @@ ATK = "countries/Turkish Republic.txt"
 GRR = "countries/Greek.txt"
 RMR = "countries/Romanian.txt"
 TOB = "countries/Tsardom Bulgaria.txt"
-CSR = "countries/Czechoslovak Republic.txt"
-GPT = "countries/Portugese.txt"
 KAL = "countries/Albanian Kingdom.txt"
 ####################################################
 #ASIA
@@ -78,13 +99,9 @@ NPA = "countries/Nepal.txt"
 TWA = "countries/France.txt"
 LSA = "countries/Luffs SA.txt"
 LIB = "countries/Liberia.txt"
+SOE = "countries/Egypt.txt"
+ETH = "countries/Ethiopia.txt"
 #BBT = "countries/Burger Barn.txt"
-####################################################
-#ZUS = "countries/Zusten.txt"
-#DOV = "countries/Vienna.txt"
-#RAH = "countries/Richftons Aus.txt"
-#TKH = "countries/Kingdom of Hungary.txt"
-#TGR = "countries/Generic Austria.txt"
 ####################################################
 #THE MIDDLE EAST
 SYR = "countries/SYRRRRIA.txt"
@@ -92,6 +109,5 @@ LEV = "countries/Levant.txt"
 KSA = "countries/KSA.txt"
 PER = "countries/Persia.txt"
 AHG = "countries/Afghanistan.txt"
-
-
-#CAS = "countries/Cascadia.txt"
+OMA = "countries/Oman.txt"
+YEM = "countries/Yemen.txt"

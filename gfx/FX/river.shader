@@ -246,8 +246,9 @@ PixelShader =
 			float vIsSnow = GetSnow( vMudSnowColor );
 
 			float vOpacity = cam_distance( SNOW_CAM_MIN, SNOW_CAM_MAX );
-			vOpacity = 0.0f;
-            float vSnowAlpha = smoothstep( 0.0f, 1.0f, saturate( vIsSnow * vOpacity * 1.7 ) );
+			vOpacity = SNOW_OPACITY_MIN + vOpacity * ( SNOW_OPACITY_MAX - SNOW_OPACITY_MIN );
+
+			float vSnowAlpha = smoothstep( 0.0f, 1.0f, saturate( vIsSnow * vOpacity * 1.7 ) );
 			vColor = lerp( vColor, 
 			               lerp( saturate(SNOW_WATER_COLOR * vReflectColor), SNOW_COLOR, smoothstep(0.4, 0.75, saturate(vNoiseColor + waterSideAlpha))), 
 			               vSnowAlpha );
@@ -405,10 +406,12 @@ PixelShader =
 			float vDesiredFade = (lerp( vFadeValue * 2.0f, 0.0f, saturate( waterSideAlpha.x * 4.0f ) ));
 			float vAlphaMultiplier = saturate(lerp( vDesiredFade, 1.0f, vFastFade ));
 			
+			float vOpacity = 1.0f - cam_distance( GB_CAM_MIN, GB_CAM_MAX );
+			float vRiverAlpha = smoothstep( 0.0f, 1.0f, saturate( vOpacity * 1.7 ) );
 
 			DebugReturn(vOut, lightingProperties, fShadowTerm);
 
-			return float4( vOut, waterSideAlpha.y * vAlphaMultiplier * Input.vTransp );
+			return float4( vOut, waterSideAlpha.y * vAlphaMultiplier * Input.vTransp * vRiverAlpha );
 		}
 	]]
 }

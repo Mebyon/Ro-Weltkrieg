@@ -6,7 +6,7 @@ state={
 	
 	state_category=city
 	history={
-		owner=FSI
+		owner=KOI
 		victory_points = {
 			10074 20 
 		}
@@ -31,7 +31,7 @@ state={
 				naval_base = 3
 			}
 		}
-		add_core_of = FSI
+		add_core_of = KOI
 	}
 
 	provinces={

@@ -7,7 +7,7 @@ state={
 	state_category=pastoral
 
 	history={
-		owner=TWA
+		owner=KOD
 		buildings = {
 			infrastructure=1
 			12885 = {
